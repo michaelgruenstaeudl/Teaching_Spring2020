@@ -43,6 +43,6 @@ Michael Grünstäudl - Prakt. Vertief. Fachwiss. Biologie (Evol.) - SoSe 2020
 @snapend
 
 @snap[south span-100]
-Michael Grünstäudl - Prakt. Vertief. Fachwiss. Biologie (Evol.) - SoSe 2020
+#####Michael Grünstäudl - Prakt. Vertief. Fachwiss. Biologie (Evol.) - SoSe 2020
 @snapend
 
