@@ -127,8 +127,8 @@
 @ulend
 @snapend
 
-@snap[east span-45]
-![IMAGE](/home/mi/Desktop/Teaching_Spring2020/assets/sci/StorchEvolutionsbiologie_Abb_11_6__MendelsInterpretation.png)
+@snap[east span-50]
+![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_6__MendelsInterpretation.png)
 @snapend
 
 
