@@ -203,6 +203,157 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 @snapend
 
 
+---?color=#005f6b
+@snap[north-west span-100]
+##### Erbfaktoren sind partikulär
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Auftreten elterlicher Geno- und Phänotypen in der F2-Generation &#8594; Erbfaktoren partikulär
+- Fortschritt gegenüber Darwins Vorstellungen von Vererbung
+- denn Darwins Sichtweise nicht mit seiner eigenen Evolutionstheorie kongruent
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Genetische Kopplung
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- in Unabhängigkeitsregel beschriebene freie Kombinierbarkeit der Erbanlagen in empirischen Daten selten zu finden
+- übermäßig häufig jene Genotypen, die schon an den Elternpflanzen zu beobachteten sind
+- bei Vererbung segregieren einige Gene/Allele nicht unabhängig voneinander
+- Erstellung von Kopplungskarten
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Genetische Kopplung
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- in Unabhängigkeitsregel beschriebene freie Kombinierbarkeit der Erbanlagen in empirischen Daten selten zu finden
+- übermäßig häufig jene Genotypen, die schon an den Elternpflanzen zu beobachteten sind
+- bei Vererbung segregieren einige Gene/Allele nicht unabhängig voneinander
+- Erstellung von Kopplungskarten
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Allel- und Genotyphäufigkeiten
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Berechnung von relativen Allel- und Genotyphäufigkeiten
+- Genmodell mit einem Locus und zwei Allelen &#8594; Grundlagen der Populationsgenetik ableiten
+- Zwei Kenngrößen:
+  - relative Allel-Häufigkeit
+  - relative Genotypen-Häufigkeit
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Berechnung Genotyphäufigkeit
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Modellpopulation mit Allelen *A* und *a* werden z.B. folgende Genotypen beobachtet: *aa*, *Aa*, *AA*, *Aa*, *AA*, *aa*, *AA*, *Aa*
+- Berechnung: relativen Genotypenhäufigkeiten P (für *AA*), Q (für *Aa*) und R (für *aa*)
+- P + Q + R = 1.0
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Berechnung Allelhäufigkeit
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Ableitung von Allelhäufigkeit aus relativen Genotypenhäufigkeiten
+- p = P + 1/2Q und q = R + 1/2Q
+- Berechnung: relativen Allelhäufigkeiten p (für *A*) und q (für *a*)
+- p + q = 1.0
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Hardy-Weinberg-Gesetz - Idee
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Kennt man Häufigkeit der Genotypen und Allele in einer Population &#8594; wie entwickeln sich diese Parameter in nachfolgenden Populationen
+- Vorhersage schwierig, denn Auftreten natürlicher Selektion
+- Jedoch: Falls in großer Population Paarungen zufällig verlaufen und keine Selektion gegen einen Genotyp auftritt &#8594; Hardy-Weinberg-Gleichgewicht
+- &#8756; Man kann Relation zwischen der relativen Genotypen- und Allelhäufigkeit bestimmen
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Hardy-Weinberg-Gesetz - Voraussetzungen
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- große Population, so daß Probenfehler- und Zufallseffekte keine Bedeutung
+- Partnerwahl erfolgt vollkommen zufällig
+- Alle Genotypen sind gleich lebensfähig und fertil
+- keine Mutation, keine Migration und keine Gendrift
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Hardy-Weinberg-Gesetz - Aussagen
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Vorhersage der Allelfrequenz über die Genotypfrequenz
+- Wenn HWG, dann Allel- und Genotypfrequenzen über Generationen konstant
+- Alle Genotypen sind gleich lebensfähig und fertil
+- Wenn Partnerwahl vollkommen zufällig &#8594; HWG bereits nach einer Generation
+- Fähigkeit die Frequenz der Heterozygoten zu berechnen
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Bruch des Hardy-Weinberg-Gesetzes
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Ist Population nicht in Hardy-Weinberg-Gleichgewicht:
+  - Auftreten natürliche Selektion
+  - Auftreten gerichteter Paarung
+  - sehr kleine Populationsgröße &#8594; stochastische Effekte
+- Interessante für Populationsgenetik
+- Warum bleiben gewisse genetische Varianten in der Population erhalten während andere verschwinden
+@ulend
+@snapend
+
 
 ---?color=#005f6b
 @snap[north span-100]
