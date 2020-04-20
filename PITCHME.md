@@ -14,15 +14,15 @@
 
 ---?color=#005f6b
 @snap[north-west span-50]
-##### Title 1
+##### Vererbung der Mutationen
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Foo
-- Bar
-- Important **Foo**
-- Baz
+- Mendelsche Regeln &#8594; Vererbung Mutationen
+- Populationsgenetik &#8594; Verbreitung Mutationen
+- &#8756; Verständnis Artbildung
+- &#8756; Verständnis phylogenetische Diversifikation
 @ulend
 @snapend
 
