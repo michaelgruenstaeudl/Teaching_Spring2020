@@ -13,7 +13,7 @@
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Vererbung der Mutationen
 @snapend
 
@@ -28,7 +28,7 @@
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Genotyp vs. Phänotyp
 @snapend
 
@@ -43,7 +43,7 @@
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Allele und Genotypen
 @snapend
 
@@ -59,7 +59,7 @@
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Dominanz bei Allelen
 @snapend
 
@@ -74,7 +74,7 @@
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Mutation nicht gleichbedeutend mit neuem Phänotyp
 @snapend
 
@@ -89,7 +89,7 @@
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Bedeutung der Arbeit von Mendel
 @snapend
 
@@ -104,7 +104,7 @@
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Mendels' Experimente
 @snapend
 
@@ -117,23 +117,26 @@
 @snapend
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Mendels' Experimente
 @snapend
 
 @snap[west span-100]
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_6__MendelsInterpretation.png)
 @snapend
+
+@snap[south span-100 text-02]
 Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
+@snapend
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Mendels' Erkenntnisse
 @snapend
 
 @snap[west span-100]
-@ul[list-spaced-bullets text-05]
+@ul[list-spaced-bullets text-07]
 - Erkenntnis: Werden zwei Individuen, die sich in nur einem Merkmal voneinander unterscheiden, als Parentalgeneration (P) miteinander gekreuzt, so resultiert eine im betrachteten Merkmal einheitliche erste Filialgeneration (F1) &#8594; 1. Mendelschen Regel (**Uniformitätsregel**)
 - Erkenntnis: Folgt das Allel dem Schema Dominanz/Rezessivität und sind die Eltern homozygot, zeigt die F1-Generation die selbe Ausprägung wie der Elternteil mit dem dominanten Allel. &#8594; 1. Mendelschen Regel (**U
 - Erkenntnis: Werden zwei Individuen der F1-Generation miteinander gekreuzt, so resultiert eine zweite Filialgeneration (F2), in der Individuen mit unterschiedlichen Phänotypen im Zahlenverhältnis 1:2:1 auftreten. &#8594; 2. Mendelschen Regel (**Spaltungsregel**)
@@ -142,7 +145,7 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Mendelsche Vererbungsregeln
 @snapend
 
@@ -159,37 +162,45 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Uniformitätsregel
 @snapend
 
 @snap[west span-100]
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_2__Uniformitaetsregel.png)
 @snapend
+
+@snap[south span-100 text-02]
 Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
+@snapend
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Spaltungsregel
 @snapend
 
 @snap[west span-100]
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_5__Spaltungsregel.png)
 @snapend
+
+@snap[south span-100 text-02]
 Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
+@snapend
 
 
 ---?color=#005f6b
-@snap[north-west span-50]
+@snap[north-west span-100]
 ##### Unabhängigkeitsregel
 @snapend
 
 @snap[west span-100]
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_7__Unabhaengigkeitsregel.png)
 @snapend
-Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 
+@snap[south span-100 text-02]
+Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
+@snapend
 
 
 
