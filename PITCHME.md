@@ -29,15 +29,61 @@
 
 ---?color=#005f6b
 @snap[north-west span-50]
-##### Title 2
+##### Genotyp vs. Phänotyp
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Foo
-- Bar
-- Important **Foo**
-- Baz
+- *Genotyp*: umfasst alle Gene des Genoms
+- *Phänotyp*: Resultat der exprimierten Gene
+- Wenn Mutation &#8594; Expression kann ausfallen
+- Selektion am Phänotyp
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-50]
+##### Allele und Genotypen
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Annahme: in Population kommen Allel *A* und seine mutierte Form *a* vor
+- &#8756; in der Population Individuen mit Genotypen: *AA*, *Aa* und *aa*
+- homozygot: *AA* und *aa*; heterozygot: *Aa*
+- Weitere Annahme: *A* stellt ein Gen dar, dass für rote Blütenfarbe kodiert
+- &#8756; heterozygote Individuen entweder intermediär rosa oder rot
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-50]
+##### Dominanz bei Allelen
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Ausprägung von die Dominanz eines Alleles variiert
+- Phänotyp der Heterozygoten liegt i.d.R. zwischen Homozygoten
+- Jedoch: Die meisten Merkmale sind nicht disjunkt
+- Wildtyp-Allel: Population am stärksten vertretene Allel
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-50]
+##### Mutation nicht gleichbedeutend mit neuem Phänotyp
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Nucleotidsubstitution in Allel nicht zwingend Veränderung der Amniosäurensequenz
+- stumme Mutationen
+- Allelpolymorphismen makroskopisch nicht immer zu erkennen
+- durch DNA-Sequenzanalyse erkennbar
 @ulend
 @snapend
 
