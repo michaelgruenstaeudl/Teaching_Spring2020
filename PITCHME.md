@@ -1,5 +1,5 @@
 ---?color=#005f6b
-@snap[north-west span-50 text-center]
+@snap[north-west span-50]
 #### PI - Praktikum 01
 ###### Title
 @snapend
@@ -14,7 +14,7 @@
 @snapend
 
 ---?color=#005f6b
-@snap[north-west span-50 text-center]
+@snap[north-west span-50]
 #### PI - Praktikum 01
 ###### Title
 @snapend
