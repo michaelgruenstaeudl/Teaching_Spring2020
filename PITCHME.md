@@ -1,7 +1,8 @@
 ---?color=#005f6b
 
 @snap[north span-100]
-### Vorlesung
+##### PI Praktikum 01
+#### Vorlesung
 @snapend
 
 @snap[span-100]
@@ -9,8 +10,8 @@
 @snapend
 
 @snap[south span-100]
-###### PI Praktikum 01
-###### 21. und 23. April 2020
+###### Michael Grünstäudl
+###### _21./23. April 2020_
 @snapend
 
 
@@ -34,7 +35,7 @@
 @snapend
 
 @snap[west span-100]
-@ul[list-spaced-bullets text-10]
+@ul[list-spaced-bullets text-08]
 - Foo
 - Bar
 - Important **Foo**
