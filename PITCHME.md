@@ -1,7 +1,21 @@
 ---?color=#005f6b
+
+@snap[west span-55]
+## PI Praktikum 01
+@snapend
+
+@snap[north-east span-45]
+![IMAGE](assets/img/presentation.png)
+@snapend
+
+@snap[south span-100]
+Vorlesung
+@snapend
+
+
+---?color=#005f6b
 @snap[north-west span-50]
-#### PI - Praktikum 01
-###### Title
+##### Title
 @snapend
 
 @snap[west span-100]
@@ -15,8 +29,7 @@
 
 ---?color=#005f6b
 @snap[north-west span-50]
-#### PI - Praktikum 01
-###### Title
+##### Title
 @snapend
 
 @snap[west span-100]
