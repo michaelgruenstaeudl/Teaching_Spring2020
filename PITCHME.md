@@ -234,21 +234,6 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Genetische Kopplung
-@snapend
-
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- in Unabhängigkeitsregel beschriebene freie Kombinierbarkeit der Erbanlagen in empirischen Daten selten zu finden
-- übermäßig häufig jene Genotypen, die schon an den Elternpflanzen zu beobachteten sind
-- bei Vererbung segregieren einige Gene/Allele nicht unabhängig voneinander
-- Erstellung von Kopplungskarten
-@ulend
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
 ##### Allel- und Genotyphäufigkeiten
 @snapend
 
