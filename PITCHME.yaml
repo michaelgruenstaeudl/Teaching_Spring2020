@@ -1,3 +1,4 @@
 transition : slide
-footnote : "<a style='color: white;'>Michael Grünstäudl - Prakt. Vertief. Fachwiss. Biologie (Evol.) - SoSe 2020</a>"
+title : "<a style='color: white; font-size: large;'>PI - Praktikum 01</a>"
+footnote : "<a style='color: white; font-size: large;'>Michael Grünstäudl - Praktische Vertiefung Fachwissenschaft Biologie (Evolution) - SoSe 2020</a>"
 controls-layout : none
