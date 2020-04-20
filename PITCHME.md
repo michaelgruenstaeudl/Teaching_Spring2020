@@ -1,45 +1,48 @@
----
+---?color=#005f6b
 
 @snap[north-west span-50 text-center]
-#### Engage your Audience
+## PI - Praktikum 01
 @snapend
 
-@snap[west span-55]
+@snap[north-west span-50 text-center]
+#### Title
+@snapend
+
+
+@snap[west span-100]
 @ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+- Foo
+- Bar
+- Important **Foo**
+- Baz
 @ulend
 @snapend
 
-@snap[east span-45]
-![IMAGE](assets/img/conference.png)
+@snap[south span-100]
+Michael Grünstäudl - Prakt. Vertief. Fachwiss. Biologie (Evol.) - SoSe 2020
 @snapend
 
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
-@snapend
-
----
+---?color=#005f6b
 
 @snap[north-west span-50 text-center]
-#### Engage your Audience
+## PI - Praktikum 01
 @snapend
 
-@snap[west span-55]
+@snap[north-west span-50 text-center]
+#### Title
+@snapend
+
+
+@snap[west span-100]
 @ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+- Foo
+- Bar
+- Important **Foo**
+- Baz
 @ulend
 @snapend
 
-@snap[east span-45]
-![IMAGE](assets/img/conference.png)
+@snap[south span-100]
+Michael Grünstäudl - Prakt. Vertief. Fachwiss. Biologie (Evol.) - SoSe 2020
 @snapend
 
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
-@snapend
