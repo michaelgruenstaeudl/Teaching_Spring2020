@@ -125,7 +125,7 @@
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_6__MendelsInterpretation.png)
 @snapend
 
-@snap[south span-100 text-02]
+@snap[south span-100 text-04]
 Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 @snapend
 
@@ -155,7 +155,7 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 - Annahmen: 3 Genotypen *AA*, *Aa* und *aa*, wobei *A* dominant und *a* rezessiv ist
 - Es lassen sich drei Regeln ableiten:
   - Uniformitätsregel (1. Mendelsche Regel)
-  - Spaltungsregel (2. Mendelsche Regel):
+  - Spaltungsregel (2. Mendelsche Regel)
   - Unabhängigkeitsregel (3. Mendelsche Regel)
 @ulend
 @snapend
@@ -170,7 +170,7 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_2__Uniformitaetsregel.png)
 @snapend
 
-@snap[south span-100 text-02]
+@snap[south span-100 text-04]
 Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 @snapend
 
@@ -184,7 +184,7 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_5__Spaltungsregel.png)
 @snapend
 
-@snap[south span-100 text-02]
+@snap[south span-100 text-04]
 Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 @snapend
 
@@ -198,7 +198,7 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_7__Unabhaengigkeitsregel.png)
 @snapend
 
-@snap[south span-100 text-02]
+@snap[south span-100 text-04]
 Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 @snapend
 
