@@ -122,15 +122,14 @@
 @snapend
 
 @snap[west span-100]
+![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_6__MendelsInterpretation.png)
+@snapend
+
+@snap[west span-100]
 @ul[list-spaced-bullets text-08]
 - Erkenntnis: Werden zwei Individuen, die sich in nur einem Merkmal voneinander unterscheiden, als Parentalgeneration (P) miteinander gekreuzt, so resultiert eine im betrachteten Merkmal einheitliche erste Filialgeneration (F1) &#8594; 1. Mendelschen Regel (**Uniformitätsregel**)
 @ulend
 @snapend
-
-@snap[east span-50]
-![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb_11_6__MendelsInterpretation.png)
-@snapend
-
 
 
 
