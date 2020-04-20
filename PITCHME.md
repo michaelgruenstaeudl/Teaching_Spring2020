@@ -11,7 +11,7 @@
 
 @snap[south span-100]
 ###### Michael Grünstäudl
-###### _21./23. April 2020_
+###### *21./23. April 2020*
 @snapend
 
 
