@@ -34,8 +34,8 @@
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- *Genotyp*: umfasst alle Gene des Genoms
-- *Phänotyp*: Resultat der exprimierten Gene
+- **Genotyp**: umfasst alle Gene des Genoms
+- **Phänotyp**: Resultat der exprimierten Gene
 - Wenn Mutation &#8594; Expression kann ausfallen
 - Selektion am Phänotyp
 @ulend
@@ -86,6 +86,52 @@
 - durch DNA-Sequenzanalyse erkennbar
 @ulend
 @snapend
+
+
+---?color=#005f6b
+@snap[north-west span-50]
+##### Bedeutung der Arbeit von Mendel
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Prinzip der Erbgänge von Gregor Mendel in Versuchen an Pflanzenhybriden erfasst
+- Hauptuntersuchungsobjekt Erbse (*Pisum sativum*): zahlreiche durch Selbstbefruchtung homozygote Zuchtlinien
+- Ergebnisse zum Zeitpunkt der Veröffentlichung (1865-1866) kaum gewürdigt
+- Erst nach der Wiederentdeckung 1990  durch de Vries, Correns und Edler v. Tschermak-Seysenegg Bedeutung erkannt
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-50]
+##### Mendels' Experimente
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Experimente an Gartenerbse veranlassten Mendel zur Postulierung von Gesetzmäßigkeiten (Mendelschen Regeln)
+- Kreuzung unterschiedlicher Erbsensorten: z.B. glatte und runzelige Samen (Samenoberfläche), grünen und gelben Samen (Samenfarbe)
+- zwei "Erbfaktoren"; heute: Allele eines Gens
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-50]
+##### Mendels' Experimente
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Erkenntnis: Werden zwei Individuen, die sich in nur einem Merkmal voneinander unterscheiden, als Parentalgeneration (P) miteinander gekreuzt, so resultiert eine im betrachteten Merkmal einheitliche erste Filialgeneration (F1) &#8594; 1. Mendelschen Regel (**Uniformitätsregel**)
+@ulend
+@snapend
+
+@snap[east span-45]
+![IMAGE](/home/mi/Desktop/Teaching_Spring2020/assets/sci/StorchEvolutionsbiologie_Abb_11_6__MendelsInterpretation.png)
+@snapend
+
+
 
 
 ---?color=#005f6b
