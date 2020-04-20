@@ -1,7 +1,7 @@
 ---?color=#005f6b
 
 @snap[west span-55]
-## PI Praktikum 01
+#### Vorlesung
 @snapend
 
 @snap[north-east span-45]
@@ -9,17 +9,17 @@
 @snapend
 
 @snap[south span-100]
-Vorlesung
+PI Praktikum 01
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-50]
-##### Title
+##### Title 1
 @snapend
 
 @snap[west span-100]
-@ul[list-spaced-bullets text-09]
+@ul[list-spaced-bullets text-08]
 - Foo
 - Bar
 - Important **Foo**
@@ -29,11 +29,11 @@ Vorlesung
 
 ---?color=#005f6b
 @snap[north-west span-50]
-##### Title
+##### Title 2
 @snapend
 
 @snap[west span-100]
-@ul[list-spaced-bullets text-09]
+@ul[list-spaced-bullets text-10]
 - Foo
 - Bar
 - Important **Foo**
