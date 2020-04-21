@@ -132,7 +132,8 @@
 @ul[list-spaced-bullets text-08]
 - Selektion kann nur wirken, wenn genetische Variabilität existiert
 - Wirkung natürlicher Selektion auf genetischer Variabilität führt zur Veränderung des Erbguts aufeinanderfolgender Generationen &#8594; Entstehung neuer Arten
-- Phänotypischen Plastizität relevant, aber genetische Variabilität für Evolution deutlich wichtiger
+- Natürliche Selektion: Individuen (Genotypen) einer Population unterscheiden sich hinsichtlich ihres Fortpflanzungserfolgs (Fitness)
+- Objekt natürlicher Selektion ist Individuum mit seinem individuellen Genotyp bzw. seinem realisierten Phänotyp
 @ulend
 @snapend
 
@@ -157,10 +158,49 @@
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Formen der Selektion
+##### Selektion und Adaptation
 @snapend
 
-@snap[span-70]
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Natürliche Selektion erklärt genetische Anpassung (Adaptation), denn Genotyp mit höherer Fitness ist besser an konkreten Standortsverhältnisse angepasst
+- Genetische Adaptation: Merkmal, das erblich ist und zur Erhöhung des Fortpflanzungserfolgs (d.h. der Fitness des Individuums) beiträgt
+- Erste Schritt einer Adaptation ist immer zufällige Mutation
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Selektion und Allelfrequenz
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Natürliche Selektion erklärt auch Veränderung von Allelfrequenzen
+- Unterschiedliche Fitness verschiedener Genotypen einer Population &#8594; Veränderung der relativen Häufigkeit von Allelen aufeinanderfolgender Generationen
+- Denn: Genotyp mit höherer Fitness steuert mehr Nachkommen zur nächsten Generation bei als ein Genotyp mit geringerer Fitness
+- Kurzdefinition von Evolution: **Veränderung von Allelfrequenzen in der Aufeinanderfolge von Generationen**
+- Jedoch: Prinzip der stabilisierende Selektion zeigt, daß natürliche Selektion nicht immer in Veränderung der Allelfrequenzen resultieren muss
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Formen der Selektion - Teil I
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Kontrastierung dreier Formen der Selektion:
+  - stabilisierende Selektion
+  - gerichtete Selektion
+  - disruptive Selektion
+@ulend
+@snapend
+
+@snap[span-50]
 ![IMAGE](assets/sci/KadereitStrasburger_Abb22_13__FormenDerSelektion.png)
 @snapend
 
@@ -171,7 +211,7 @@ Quelle: Kadereit et al. 2014, Strasburger, 14. Auflage, Springer Verlag
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Gerichtete Selektion
+##### Beispiel: Gerichtete Selektion
 @snapend
 
 @snap[span-35]
@@ -185,7 +225,22 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Ausgleichende Selektion
+##### Formen der Selektion - Teil II
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Kontrastierung dreier Formen der Selektion:
+  - negative Selektion
+  - positive Selektion
+  - ausgleichende Selektion
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Beispiel: Ausgleichende Selektion
 @snapend
 
 @snap[span-45]
