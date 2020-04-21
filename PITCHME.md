@@ -33,7 +33,7 @@
 ##### Formen der Selektion
 @snapend
 
-@snap[span-65]
+@snap[span-70]
 ![IMAGE](assets/sci/KadereitStrasburger_Abb22_13__FormenDerSelektion.png)
 @snapend
 
@@ -61,7 +61,7 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 ##### Ausgleichende Selektion
 @snapend
 
-@snap[span-35]
+@snap[span-45]
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb3_48_AusgleichendeSelektion.png)
 @snapend
 
