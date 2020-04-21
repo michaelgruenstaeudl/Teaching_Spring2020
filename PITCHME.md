@@ -14,18 +14,65 @@
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Foo bar Baz
+##### Genetische Variation
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Foo &#8594; Foo bar Baz
-- Bar &#8594; Foo bar Baz
-- &#8756; Foo bar Baz
-- &#8756; Foo bar Baz
+- Entsteht durch:
+  - *Mutation*
+  - Durchmischung des Erbguts unterschiedlicher Individuen via *Rekombination*
+- Bei Eukaryoten: Rekombination ist Teil bzw. Zweck der sexuellen Reproduktion
+- Bei Prokaryoten: Keine oder "parasexuelle" Reproduktion &#8594; geringere genetische Durchmischung im selben Zeitraum
 @ulend
 @snapend
 
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Sexuelle Reproduktion bei Eukaryoten
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Rekombination des elterlichen Erbguts bewirkt durch:
+  - unabhängige Verteilung der Chromosomen auf Gameten
+  - Crossing-Over während Meiose
+  - zufällige Gametenfusion bei Befruchtung (Syngamie)
+- Hauptziel der Rekombination: Erzeugung genetischer Variation
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Sexuelle Reproduktion bei Prokaryoten
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Austauschs von Erbinformation unterschiedlicher "Individuen" (Konzept richtig?) durch:
+  - direkten zellulären Kontakt (Konjugation)
+  - Übertragung über Bakteriophagen (Transduktion)
+  - Übertragung freier DNA (Transformation)
+- Da keine sexuelle Reproduktion *sensu stricto*: "Parasexuelle Reproduktion"
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Mendelschen Regeln und Rekombination
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Mendelschen Regeln basieren auf Prinzipien der genetische Rekombination:
+  - Uniformität der F1-Generation: betrachtete Organismus diploid, sodass jedes Chromosom (und daher auch jedes Gen) zweifach vorliegt &#8594; Nachkommenschaft homozygoter Eltern kann daher nur heterozygot sein
+  - Segregation während der F2-Generation: während Meiose findet Halbierung der Chromosomenzahl statt &#8594; Gameten haben nur ein Allel &#8594; Gameten fusionieren während der Syngamie zufällig
+  - Freie Kombinierbarkeit der Erbanlagen: während Meiose I sind die Bivalente randomiesiert orientiert &#8594; Verteilung auf Tochterzellen stochastisch
+@ulend
+@snapend
 
 
 ---?color=#005f6b
