@@ -47,7 +47,7 @@ Quelle: Kadereit et al. 2014, Strasburger, 14. Auflage, Springer Verlag
 ##### Gerichtete Selektion
 @snapend
 
-@snap[span-35]
+@snap[east span-35]
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb3_47_GerichteteSelektion.png)
 @snapend
 
@@ -61,7 +61,7 @@ Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
 ##### Ausgleichende Selektion
 @snapend
 
-@snap[span-35]
+@snap[east span-35]
 ![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb3_48_AusgleichendeSelektion.png)
 @snapend
 
