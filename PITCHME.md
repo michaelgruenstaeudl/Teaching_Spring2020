@@ -37,7 +37,7 @@
 @ul[list-spaced-bullets text-08]
 - morphologische Ähnlichkeit als Maß für Verwandtschaft
 - man sucht diskontinuierlicher Variation für jedes von mehreren morphologischen Merkmalen
-- &#8597; Variation innerhalb der Art ist kontinuierlich, Variation zwischen Arten diskontinuierlich
+- &#8756; Variation innerhalb der Art ist kontinuierlich, Variation zwischen Arten diskontinuierlich
 - In der Praxis Beschreibung der meisten Arten auf der Grundlage der beobachteten morphologischen Variation
 - Nachteil: Dimorphismen innerhalb Art bringen Konzept zum Einbruch
 @ulend
@@ -52,7 +52,7 @@
 @ul[list-spaced-bullets text-08]
 - Art ist Gruppe von Individuen, welche die gleiche ökologische Nische besetzen
 - die einer Art zugehörigen Individuen haben ähnliche Umweltansprüche
-- &#8597; sind ähnlicher Selektion ausgesetzt
+- &#8756; sind ähnlicher Selektion ausgesetzt
 - Nachteile:
   - Nischen sind nicht a priori definiert
   - viele Arten sind flexibel genug bei Bedarf mehrere ökologische Nischen zu besetzen
