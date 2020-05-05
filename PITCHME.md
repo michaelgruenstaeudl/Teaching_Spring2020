@@ -1,6 +1,6 @@
 ---?color=#005f6b
 @snap[north span-100]
-##### S Seminar 01
+##### S Seminar 03
 #### Vorlesung
 @snapend
 @snap[span-100]
@@ -8,253 +8,258 @@
 @snapend
 @snap[south span-100]
 ###### Michael Grünstäudl
-###### 21. April 2020
+###### 05. Mai 2020
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Genetische Variabilität
+##### Artkonzepte
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Entsteht durch:
-  - *Mutation*
-  - Durchmischung des Erbguts unterschiedlicher Individuen via *Rekombination*
-- Bei Eukaryoten: Rekombination ist Teil bzw. Zweck der sexuellen Reproduktion
-- Bei Prokaryoten: Keine oder "parasexuelle" Reproduktion &#8594; geringere genetische Durchmischung im selben Zeitraum
+- Was ist eine Art?
+- Verschiedene Artkonzepte:
+  - betonen unterschiedliche biologische Aspekte
+  - schliessen sich nicht gegenseitig aus
+  - sind für die Umsetzung in der Praxis aber unterschiedlich gut geeignet
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Sexuelle Reproduktion bei Eukaryoten
+##### Morphologisches (phänetisches) Artkonzept
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Rekombination des elterlichen Erbguts bewirkt durch:
-  - unabhängige Verteilung der Chromosomen auf Gameten
-  - Crossing-Over während Meiose
-  - zufällige Gametenfusion bei Befruchtung (Syngamie)
-- Hauptziel der Rekombination: Erzeugung genetischer Variabilität
+- morphologische Ähnlichkeit als Maß für Verwandtschaft
+- man sucht diskontinuierlicher Variation für jedes von mehreren morphologischen Merkmalen
+- &#8597; Variation innerhalb der Art ist kontinuierlich, Variation zwischen Arten diskontinuierlich
+- In der Praxis Beschreibung der meisten Arten auf der Grundlage der beobachteten morphologischen Variation
+- Nachteil: Dimorphismen innerhalb Art bringen Konzept zum Einbruch
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Ökologisches Artkonzept
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Art ist Gruppe von Individuen, welche die gleiche ökologische Nische besetzen
+- die einer Art zugehörigen Individuen haben ähnliche Umweltansprüche
+- &#8597; sind ähnlicher Selektion ausgesetzt
+- Nachteile:
+  - Nischen sind nicht a priori definiert
+  - viele Arten sind flexibel genug bei Bedarf mehrere ökologische Nischen zu besetzen
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Sexuelle Reproduktion bei Prokaryoten
+##### Phylogenetisches (kladistisches) Artkonzept
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Austauschs von Erbinformation unterschiedlicher "Individuen" (Konzept richtig?) durch:
-  - direkten zellulären Kontakt (Konjugation)
-  - Übertragung über Bakteriophagen (Transduktion)
-  - Übertragung freier DNA (Transformation)
-- Da keine sexuelle Reproduktion *sensu stricto*: "Parasexuelle Reproduktion"
+- basiert auf der Abstammung von einem letzten gemeinsamen Vorfahren
+- Arten sind terminale Glieder einer evolutionären Linie sind, die sich von einem gemeinsamen Vorfahren ableiten
+- Konkret: alle Mitglieder einer von einem Vorfahren abstammenden (monophyletischen) Entwicklungslinie
+- Diese Einheiten sollen sich durch klar diagnostizierbare Merkmale voneinander zu unterscheiden
+- Nachteil: Identifikation einer Unzahl von Arten
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Mendelschen Regeln und Rekombination
+##### Biologisches Artkonzept
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Mendelschen Regeln basieren auf Prinzipien der genetische Rekombination:
-  - Uniformität der F1-Generation: betrachtete Organismus diploid, sodass jedes Chromosom (und daher auch jedes Gen) zweifach vorliegt &#8594; Nachkommenschaft homozygoter Eltern kann daher nur heterozygot sein
-  - Segregation während der F2-Generation: während Meiose findet Halbierung der Chromosomenzahl statt &#8594; Gameten haben nur ein Allel &#8594; Gameten fusionieren während der Syngamie zufällig
-  - Freie Kombinierbarkeit der Erbanlagen: während Meiose I sind die Bivalente randomiesiert orientiert &#8594; Verteilung auf Tochterzellen stochastisch
+- Betonung liegt auf Kreuzbarkeit von Populationen unter natürlichen Bedingungen
+- Entscheidend: Vorliegen von Reproduktionsbarrieren
+- Art muss lebensfähige und fruchtbare Nachkommen hervorbringen können
+- Macht Sinn, denn reproduktive Isolation hat eine genetische Grundlage
+- Nachteile:
+  - nicht anwendbar bei Lebewesen mit asexueller Fortpflanzung
+  - für Feldarbeit kaum einsetzbar
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Genetische Kopplung und Rekombination
+##### Formen der Artbildung
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Korrelation zwischen Wahrscheinlichkeit für Kopplung unterschiedlicher Gene auf Chromosom und Entfernung dieser Gene voneinander auf Chromosom
-- Große Entfernung zwischen beobachteten Genen führt zu häufiger Trennung, da Wahrscheinlichkeit für Crossing-Over groß
-- Nähe am Chromosom korreliert:
-  - indirekt proportional mit Wahrscheinlichkeit für Crossing-Over
-  - direkt proportional mit Wahrscheinlichkeit für genetische Kopplung
+- evolutionäre Prozess der Aufspaltung einer Art in zwei (oder mehrere) Arten
+- Gegensatz: allopatrische versus sympatrische Artbildung
+- allopatrische Artbildung: räumliche Trennung
+- sympatrische Artbildung: keine räumliche Trennung
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Generation genetischer Variabilität
+##### Allopatrische Artbildung
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Rekombination kann ist die Hauptquelle für genetischer Variabilität bei Eukaryoten
-- Rekombination kann in nur einer Generation zur Entstehung einer großen Zahl neuer Genotypen führen
-- Beispiel:
-  - Bei nur fünf Genen mit je vier Allelen ergeben sich zwischen F1- und F2-Generation 100.000 Kombinationen
-  - Jedoch: Empirisch ist Zahl niedriger, da nicht alle Gene frei kombiniert werden können (sondern teilweise gekoppelt sind)
+- basiert auf Entwicklung einer Fortpflanzungsbarriere **durch** geographische Isolation
+- durch Umwelteinflüsse wird  Teil einer Ausgangspopulation abgetrennt &#8594; Genfluss zwischen beiden Gruppen wird unterbrochen
+- unterschiedliche Selektion, Gendrift verursachen Veränderung der relativen Allelhäufigkeiten
+- Teilpopulationen sind über die Zeit hinweg reproduktiv isoliert
+- Beispiele:
+  - Trennung von Landmassen durch Kontinentalverschiebung
+  - Entstehung von Gebirgen
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Grundsätzliches zur Selektion - Teil I
+##### Sympatrische Artbildung
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Evolution findet auf Basis von natürlicher Selektion durch Umweltfaktoren statt
-- Charles Darwin: "On the origin of species *by means of natural selection*"
-- Selektion greift nicht an einzelnen Genen (Genotyp; Gen-Selektion) sondern am ganzen Organismus (Phänotyp; Individualselektion)
-- Natürliche Selektion: Überleben **nicht zwangsläufig** des Stärkstens, sondern desjenigen mit größtem Fortpflanzungserfolg
-- &#8597; Einfluss der natürlichen Selektion auf Population nur über viele Generationen hinweg (mindestens zwei) sichtbar
+- basiert auf Entwicklung einer Fortpflanzungsbarriere **ohne** geographische Isolation
+- Entstehung neuer Art also innerhalb des Verbreitungsgebietes der Ausgangspopulation
+- vor allem durch Polyploidisierung oder andere genetische Inkompatibilität hervorgerufen
+- oft ein schneller Prozess, der in wenigen Generationen auftritt
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Grundsätzliches zur Selektion - Teil II
+##### Parapatrische Artbildung
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Selektion kann nur wirken, wenn genetische Variabilität existiert
-- Wirkung natürlicher Selektion auf genetischer Variabilität führt zur Veränderung des Erbguts aufeinanderfolgender Generationen &#8594; Entstehung neuer Arten
-- Natürliche Selektion: Individuen (Genotypen) einer Population unterscheiden sich hinsichtlich ihres Fortpflanzungserfolgs (Fitness)
-- Objekt natürlicher Selektion ist Individuum mit seinem individuellen Genotyp bzw. seinem realisierten Phänotyp
+- Spezialform der allopatrische Artbildung
+- eine am Rand des Ursprungareals lebende Populationen entwickelt zusehend Fortpflanzungsbarrieren
+- Fortpflanzung hauptsächlich auf Hybridzonen zwischen Arealen beschränkt
+- Genfluss findet via Migranten und über Introgression mit den Hybriden statt
+- mit der Zeit festigen sich Fortpflanzungsbarrieren
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Relevanz von Mutationen
+##### Peripatrische Artbildung
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Mutation: spontane (oder experimentell induzierte) Veränderung des Erbguts
-- Unterschiedliche Formen der Mutation:
-  - Veränderung der DNA-Sequenz in einem Gen
-  - Veränderung der Struktur der Chromosomen
-  - Neukombination ganzer Genome
-- Für alle Mutation gilt: Auftreten zufällig bzw. stochastisch
-- Für Evolution nur Mutationen relevant die in Keimzellen auftreten
+- Spezialform der allopatrische Artbildung
+- basiert auf geografischer Isolation einer Teilpopulation, wobei geographische Isolation unvollständig
+- häufig bei Inselpopulation versus Kontinentalpopulation
+- mit der Zeit festigen sich Fortpflanzungsbarrieren
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Selektion und Adaptation
+##### Prä- und postzygotische Fortpflanzungsbarrieren
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Natürliche Selektion erklärt genetische Anpassung (Adaptation), denn Genotyp mit höherer Fitness ist besser an konkreten Standortsverhältnisse angepasst
-- Genetische Adaptation: Merkmal, das erblich ist und zur Erhöhung des Fortpflanzungserfolgs (d.h. der Fitness des Individuums) beiträgt
-- Erste Schritt einer Adaptation ist immer zufällige Mutation
+- Präzygotische Isolation verhindert zwischenartliche Kreuzung schon vor Bildung der Zygote
+- Beispiele: 
+  - unterschiedliches Balzverhalten
+  - unterschiedliche Blütezeit
+- Postzygotische Isolation verhindert zwischenartliche Kreuzung nach Bildung der Zygote, reduziert Vitalität oder Fertilität der hybriden Nachkommen
+- Beispiele:
+  - reduzierte Lebensfähigkeit der F1-Hybriden
+  - Hybridzusammenbruch
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Selektion und Allelfrequenz
+##### Homoploide Hybridisierung
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Natürliche Selektion erklärt auch Veränderung von Allelfrequenzen
-- Unterschiedliche Fitness verschiedener Genotypen einer Population &#8594; Veränderung der relativen Häufigkeit von Allelen aufeinanderfolgender Generationen
-- Denn: Genotyp mit höherer Fitness steuert mehr Nachkommen zur nächsten Generation bei als ein Genotyp mit geringerer Fitness
-- Kurzdefinition von Evolution: **Veränderung von Allelfrequenzen in der Aufeinanderfolge von Generationen**
-- Jedoch: Prinzip der stabilisierende Selektion zeigt, daß natürliche Selektion nicht immer in Veränderung der Allelfrequenzen resultieren muss
+- stellt Form der sympatrischen Artbildung dar
+- Kreuzung zweier unterschiedlicher Arten (da reproduktive Isolation nicht vollständig)
+- entstehende Hybridart besitzt diploiden Chromosomensatz
+- Vorteile: 
+  - durch Hybridisierung können oft Inzucht-Probleme einer Population gelöst werden
+  - Hybride zwischen eng verwandten Arten haben oft kräftigeren Wuchs als die Elternindividuen
+- Nachteile:
+  - Hybridisierung reduziert oft Fitness im Vergleich zu Elternarten
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Formen der Selektion - Teil I
+##### Polyploidisierung
 @snapend
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Kontrastierung dreier Formen der Selektion:
-  - stabilisierende Selektion
-  - gerichtete Selektion
-  - disruptive Selektion
-@ulend
-@snapend
-
-@snap[span-50]
-![IMAGE](assets/sci/KadereitStrasburger_Abb22_13__FormenDerSelektion.png)
-@snapend
-
-@snap[south span-100 text-04]
-Quelle: Kadereit et al. 2014, Strasburger, 14. Auflage, Springer Verlag
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
-##### Beispiel: Gerichtete Selektion
-@snapend
-
-@snap[span-35]
-![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb3_47_GerichteteSelektion.png)
-@snapend
-
-@snap[south span-100 text-04]
-Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
-##### Formen der Selektion - Teil II
-@snapend
-
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- Kontrastierung dreier Formen der Selektion:
-  - negative Selektion
-  - positive Selektion
-  - ausgleichende Selektion
+- stellt Form der sympatrischen Artbildung dar
+- stellt meist einen postzygotische Isolationsmechanismus dar
+- Polyploid fast immer von Elternarten reproduktiv isoliert
+- Jedoch: bei Hybriden (!) kann reduzierte Fertilität durch Polyploidisierung oft wiedergewonnen werden
+- Zwei Formen der Polyploidisierung: Auto- und Allopolyploidie
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Beispiel: Ausgleichende Selektion
+##### Autopolyploidie
 @snapend
 
-@snap[span-45]
-![IMAGE](assets/sci/StorchEvolutionsbiologie_Abb3_48_AusgleichendeSelektion.png)
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Entstehung unreduzierter, also diploider Gameten (2n)
+- Fusion unreduzierter Gameten vom selben Individuum oder von verschiedenen Individuen derselben Art &#8594; tetraploides Individuum
+- tetraploide Individuen können sich selbst bestäuben/befruchten oder Kreuzungen mit anderen tetraploiden Formen der gleichen Art eingehen
+- Rückkreuzung mit Population der Eltern nicht möglich
+@ulend
 @snapend
 
-@snap[south span-100 text-04]
-Quelle: Storch et al. 2007, Evolutionsbiologie, zweite Auflage, Springer Verlag
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Allopolyploidie
+@snapend
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- homoploide Hybridisierung, gefolgt von Autopolyploidisierung
+- nach homoploider Hybridisierung typischerweise Probleme bei Meiose
+- außerdem starker Selektionsdruck zur Wiedergewinnung der Rückkreuzungsmöglichkeit
+- Lösung ist Autopolyploidiserung &#8594; Wiedergewinnung teilweiser Fertilität, auch mit Elterngeneration
+@ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north span-100]
-##### S Seminar 01
+##### S Seminar 03
 #### Vorlesung
 @snapend
 @snap[span-100]
