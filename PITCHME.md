@@ -86,7 +86,7 @@
 - Betonung liegt auf Kreuzbarkeit von Populationen unter natürlichen Bedingungen
 - Entscheidend: Vorliegen von Reproduktionsbarrieren
 - Art muss lebensfähige und fruchtbare Nachkommen hervorbringen können
-- Macht Sinn, denn reproduktive Isolation hat eine genetische Grundlage
+- reproduktive Isolation hat eine genetische Grundlage
 - Nachteile:
   - nicht anwendbar bei Lebewesen mit asexueller Fortpflanzung
   - für Feldarbeit kaum einsetzbar
@@ -103,8 +103,8 @@
 @ul[list-spaced-bullets text-08]
 - evolutionäre Prozess der Aufspaltung einer Art in zwei (oder mehrere) Arten
 - Gegensatz: allopatrische versus sympatrische Artbildung
-- allopatrische Artbildung: räumliche Trennung
-- sympatrische Artbildung: keine räumliche Trennung
+- *allopatrische* Artbildung: räumliche Trennung
+- *sympatrische* Artbildung: keine räumliche Trennung
 @ulend
 @snapend
 
@@ -120,9 +120,6 @@
 - durch Umwelteinflüsse wird  Teil einer Ausgangspopulation abgetrennt &#8594; Genfluss zwischen beiden Gruppen wird unterbrochen
 - unterschiedliche Selektion, Gendrift verursachen Veränderung der relativen Allelhäufigkeiten
 - Teilpopulationen sind über die Zeit hinweg reproduktiv isoliert
-- Beispiele:
-  - Trennung von Landmassen durch Kontinentalverschiebung
-  - Entstehung von Gebirgen
 @ulend
 @snapend
 
@@ -182,12 +179,10 @@
 @ul[list-spaced-bullets text-08]
 - Präzygotische Isolation verhindert zwischenartliche Kreuzung schon vor Bildung der Zygote
 - Beispiele: 
-  - unterschiedliches Balzverhalten
-  - unterschiedliche Blütezeit
+  - unterschiedliches Balzverhalten, unterschiedliche Blütezeit
 - Postzygotische Isolation verhindert zwischenartliche Kreuzung nach Bildung der Zygote, reduziert Vitalität oder Fertilität der hybriden Nachkommen
 - Beispiele:
-  - reduzierte Lebensfähigkeit der F1-Hybriden
-  - Hybridzusammenbruch
+  - reduzierte Lebensfähigkeit der F1-Hybriden, Hybridzusammenbruch
 @ulend
 @snapend
 
@@ -203,8 +198,8 @@
 - Kreuzung zweier unterschiedlicher Arten (da reproduktive Isolation nicht vollständig)
 - entstehende Hybridart besitzt diploiden Chromosomensatz
 - Vorteile: 
-  - durch Hybridisierung können oft Inzucht-Probleme einer Population gelöst werden
-  - Hybride zwischen eng verwandten Arten haben oft kräftigeren Wuchs als die Elternindividuen
+  - potentielle Lösung von Inzucht-Problemen einer Population
+  - Hybride eng verwandter Arten haben oft kräftigeren Wuchs als die Eltern
 - Nachteile:
   - Hybridisierung reduziert oft Fitness im Vergleich zu Elternarten
 @ulend
