@@ -291,7 +291,7 @@
 @ul[list-spaced-bullets text-08]
 - Trennung der homologen Chromosomen jedes Chromosomenpaares, indem sie zu den gegenüberliegenden Polen gezogen werden
 - Zufall bestimmt, welches Chromosom des jeweiligen Paares zum einen oder zum anderen Pol wandert
-- Beim Menschen (23 Chromosome im haploiden Chromosomensatz) sind 2^23 Chromosomen-Kombinationen in den Gameten möglich
+- Beim Menschen (n=23) sind 2^23 Chromosomen-Kombinationen in den Gameten möglich
 - Segregation alleine würde bereits dafür sorgen, dass jede neu entstandene Zellen eine andere Allele-Kombination trägt als Zellen der Eltern
 @ulend
 @snapend
