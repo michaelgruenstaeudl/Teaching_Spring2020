@@ -165,9 +165,9 @@
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
 - Bei asexueller Fortpflanzung:
-  - ganze Genome werden transferiert
+  - **ganze Genome** werden transferiert
 - Bei sexueller Fortpflanzung:
-  - Allele werden transferiert
+  - **Allele** werden transferiert
 - Allele sind also die Grundeinheit der Evolution bei Lebewesen, die sich sexuell fortpflanzen
 @ulend
 @snapend
@@ -182,6 +182,129 @@
   - Alle unsere Allele haben wir von unseren Eltern geerbt, aber keiner unserer Vorfahren besaß die gleiche Allel-Kombination wie wir
   - Unsere Geschwister haben die gleichen Allele wie wir, aber keiner unserer Geschwister besitzt die gleiche Allel-Kombination wie wir
   - Die Neukombination der Allele eines Individuums findet während der Keimzellenbildung der Eltern statt
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Sexuelle Vermehrung und Kernphasenwechsel
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Prinzip der sexuellen Vermehrung bedeutet Wechsel von haploiden Zellen (*Gameten*) und diploiden Zellen (*somatische Zellen*)
+- Organismen, die sich sexuell vermehren, kommen also in zwei unterschiedlichen Phasen vor: in einer haploide Phase (Haplophase) und einer diploiden Phase (Diplophase)
+- dies wird auch als Wechsel von **Kernphasen** bezeichnet (allgemeiner: **Generationswechsel**)
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Sexuelle Vermehrung und Kernphasenwechsel
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Grundsätzlich treten zwei Formen des Kernphasenwechsels auf:
+  - **Karyogamie** (Teil der Syngamie; oft allgemein: Befruchtung):
+    - Kerne der Gameten (haploid) verschmelzen zum Kern der Zygote (diploid)
+  - **Meiose**:
+    - diploider Chromosomensatz wird wieder in zwei haploide Chromosomensätze getrennt
+@ulend
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Formen von Organismen nach Dominanz der Kernphasen
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Bei den meisten Wirbeltieren ist die Haplophase auf eine Zellgeneration beschränkt
+- Aber: dies ist nicht repräsentativ für alle Lebewesen
+- Wir unterscheiden daher:
+  - 1. *Haploten*: die Haplophase ist mehrzellig, die Diplophase einzellig
+    - &#8594; die Haplophase ist langlebig
+    - &#8594; Organismus existiert hauptsächlich in haploider Phase
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Formen von Organismen nach Dominanz der Kernphasen
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Wir unterscheiden daher:
+  - 1. *Haploten*: die Haplophase ist mehrzellig, die Diplophase einzellig
+  - 2. *Diplonten*: die Haplophase einzellig, die Diplophase ist mehrzellig
+    - &#8594; die Diplophase ist langlebig
+    - &#8594; der Organismus existiert hauptsächlich in diploider Phase
+  - 3. *Haplo-Diplonten*: sowohl Haplophase wie auch Diplophase ist mehrzellig
+    - &#8594; beiden Phasen sind langlebig
+    - &#8594; Organismus existiert in beiden Phasen
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Kernphasenwechsel Meiose
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Meiose ist der Kernphasenwechsel von diploider zu haploider Phase
+- auch "Reduktionsteilung" genannt, denn besteht aus zwei Reduktionsteilungen (Meiose I und Meiose II)
+- ohne Meiose würde es bei sexueller Fortpflanzung zu Verdopplung des Chromosomensatzes während nachfolgenden Syngamie kommen
+- Meiose ist wahrscheinlich nur einmal in Evolution entstanden
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Ablauf der Meiose
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- zuerst Paarung homologer Chromosomen, dann Reduktion des diploiden Chromosomensatzes
+- durch zwei molekulare Prozesse gekennzeichnet
+  - *Crossing-Over* (oft als "Rekombination" benannt)
+  - *Zufällige Segregation*
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Crossing-Over
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- in Prophase der 1. Reduktionsteilung (Prophase I) findet ein sektionsweiser Austausch der DNA zwischen den homologen mütterlichen und väterlichen Schwesterchromatiden-Paaren statt
+- die jeweils gepaarten Bereiche entsprechen sich auch auf der Sequenzebene
+- jedes Chromosomenpaar **vor** Crossing-Over: ein Chromosom vom Vater und das andere von der Mutter
+- jedes Chromosomenpaar **nach** Crossing-Over: ein Mosaik aus mütterlichen und väterlichen Allelen
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Zufällige Segregation
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- es trennen sich die homologen Chromosomen jedes Chromosomenpaares, indem sie zu den gegenüberliegenden Polen der Zelle gezogen werden
+- Zufall bestimmt, welches Chromosom des jeweiligen Paares zum einen oder zum anderen Pol wandert
+- Beim Menschen (23 Chromosome im haploiden Chromosomensatz) sind 2^23 Chromosomen-Kombinationen in den Gameten möglich
+- Segregation alleine würde bereits dafür sorgen, dass jede neu entstandene Zellen eine andere Allele-Kombination trägt als Zellen der Eltern
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Nach Meiose: Zufällige Gametenfusion
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- ist weitere Ebene der Entstehung genetischer Variabilität
+- Zufall bestimmt, welches Spermium bei der Befruchtung mit der Eizelle fusioniert
+- Die Zahl der möglichen Chromosomen-Kombinationen bei der Fusion der Gameten während der Befruchtung liegt daher bei mindestens: (8 × 10^6)^2 = 64 × 10^12
 @ulend
 @snapend
 
