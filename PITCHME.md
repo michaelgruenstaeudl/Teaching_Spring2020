@@ -1,6 +1,6 @@
 ---?color=#005f6b
 @snap[north span-100]
-##### S Seminar 03
+##### S Seminar 05
 #### Vorlesung
 @snapend
 @snap[span-100]
@@ -8,253 +8,130 @@
 @snapend
 @snap[south span-100]
 ###### Michael Grünstäudl
-###### 05. Mai 2020
+###### 18. Mai 2020
 @snapend
 
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Artkonzepte
+##### Asexuelle Fortpflanzung
 @snapend
-
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Was ist eine Art?
-- Verschiedene Artkonzepte:
-  - betonen unterschiedliche biologische Aspekte
-  - schliessen sich nicht gegenseitig aus
-  - sind für die Umsetzung in der Praxis aber unterschiedlich gut geeignet
-@ulend
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
-##### Morphologisches (phänetisches) Artkonzept
-@snapend
-
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- morphologische Ähnlichkeit als Maß für Verwandtschaft
-- man sucht diskontinuierlicher Variation für jedes von mehreren morphologischen Merkmalen
-- &#8756; Variation innerhalb der Art ist kontinuierlich, Variation zwischen Arten diskontinuierlich
-- In der Praxis Beschreibung der meisten Arten auf der Grundlage der beobachteten morphologischen Variation
-- Nachteil: Dimorphismen innerhalb Art bringen Konzept zum Einbruch
+- ausschließlich mitotische Teilungen der somatischen Zellen
+- Nachkommen sind genetisch ident mit dem Eltern
+- erfordert totipotente Zellen
+- bei Pflanzen häufig, bei Tieren sehr selten
+- wirft Frage nach Anwendung des Begriffs "Individuum" auf
 @ulend
 @snapend
 
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Ökologisches Artkonzept
+##### Vor- und Nachteile der asexuellen Fortpflanzung
 @snapend
-
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Art ist Gruppe von Individuen, welche die gleiche ökologische Nische besetzen
-- die einer Art zugehörigen Individuen haben ähnliche Umweltansprüche
-- &#8756; sind ähnlicher Selektion ausgesetzt
+- Vorteile:
+  - deutlich schnellere Vermehrung als bei sexueller Fortpflanzung
+  - keine Meiose notwendig
+  - keine Aufwand bei Partnersuche
+  - keine Co-Lokalisation mit Partner notwendig
 - Nachteile:
-  - Nischen sind nicht a priori definiert
-  - viele Arten sind flexibel genug bei Bedarf mehrere ökologische Nischen zu besetzen
+  - keine genetische Diversität unter den Nachkommen
+  - Anpassung an verändernde Umweltbedingungen nur via Mutationen
 @ulend
 @snapend
 
-
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Phylogenetisches (kladistisches) Artkonzept
+##### Sexuelle Fortpflanzung
 @snapend
-
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- basiert auf der Abstammung von einem letzten gemeinsamen Vorfahren
-- Arten sind terminale Glieder einer evolutionären Linie sind, die sich von einem gemeinsamen Vorfahren ableiten
-- Konkret: alle Mitglieder einer von einem Vorfahren abstammenden (monophyletischen) Entwicklungslinie
-- Diese Einheiten sollen sich durch klar diagnostizierbare Merkmale voneinander zu unterscheiden
-- Nachteil: Identifikation einer Unzahl von Arten
+- fast immer bisexuelle Fortpflanzung: zwei Typen von Keimzellen (Gameten), die via Syngamie verschmelzen
+- meistens Unterscheidung in einen größeren, immobilen Typ der Gameten und einen kleineren, beweglichen Typ
+- benötigt meiotischen Kernphasenwechsel während der Gametenbildung:
+diploider Chromosomensatz der Ausgangszelle wird halbiert &#8594; haploide Gameten
+- benötigt Syngamie:
+Verschmelzung von zwei haploiden Gameten &#8594; diploide Somazelle ("Zygote")
 @ulend
 @snapend
 
-
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Biologisches Artkonzept
+##### Vorteile der sexuellen Fortpflanzung
 @snapend
-
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Betonung liegt auf Kreuzbarkeit von Populationen unter natürlichen Bedingungen
-- Entscheidend: Vorliegen von Reproduktionsbarrieren
-- Art muss lebensfähige und fruchtbare Nachkommen hervorbringen können
-- reproduktive Isolation hat eine genetische Grundlage
-- Nachteile:
-  - nicht anwendbar bei Lebewesen mit asexueller Fortpflanzung
-  - für Feldarbeit kaum einsetzbar
+- automatische Generierung genetischer Diversität unter den Nachkommen
+- &#8596; notwendige genetische Variabilität, an der natürliche Selektion ansetzen kann
+- &#8596; schnellere Anpassung an verändernde Umweltbedingungen
+- Nutzung der bewährten Allele der Eltern, aber in neuer Kombination
+- Vorteile also vor allem auf Ebene der Population
 @ulend
 @snapend
 
-
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Formen der Artbildung
+##### Nachteile der sexuellen Fortpflanzung
 @snapend
-
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- evolutionäre Prozess der Aufspaltung einer Art in zwei (oder mehrere) Arten
-- Gegensatz: allopatrische versus sympatrische Artbildung
-- *allopatrische* Artbildung: räumliche Trennung
-- *sympatrische* Artbildung: keine räumliche Trennung
+- deutlich langsamere Vermehrung als bei asexueller Fortpflanzung
+- Meiose notwendig
+- Aufwand bei Partnersuche
+- Co-Lokalisation mit Partner notwendig
+- &#8596; Wann ist sexuelle Fortpflanzung also sinnvoll? &#8594; verschiedene Erklärungsansätze
 @ulend
 @snapend
 
-
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Allopatrische Artbildung
+##### Red-Queen-Hypothese
 @snapend
-
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- basiert auf Entwicklung einer Fortpflanzungsbarriere **durch** geographische Isolation
-- durch Umwelteinflüsse wird  Teil einer Ausgangspopulation abgetrennt &#8594; Genfluss zwischen beiden Gruppen wird unterbrochen
-- unterschiedliche Selektion, Gendrift verursachen Veränderung der relativen Allelhäufigkeiten
-- Teilpopulationen sind über die Zeit hinweg reproduktiv isoliert
+- Sexuellen Fortpflanzung ist adaptive Strategie, v.a. im Kampf gegen Pathogene/Parasiten
+- Ständiges Wettrüsten zwischen Parasiten und ihren Wirten
+- Beispiel: Influenza-Impfstoffe müssen jedes Jahr neu entwickelt bzw. optimiert werden
+- Parasiten haben Vorteil der kürzeren Generationszeiten
+- Sexuellen Fortpflanzung bei Wirten &#8594; genetische Variabilität &#8594; Vorteil der Parasiten wird ausgeglichen
 @ulend
 @snapend
 
-
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Sympatrische Artbildung
+##### Hypothese der Konkurrenz zwischen Generationen
 @snapend
-
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- basiert auf Entwicklung einer Fortpflanzungsbarriere **ohne** geographische Isolation
-- Entstehung neuer Art also innerhalb des Verbreitungsgebietes der Ausgangspopulation
-- vor allem durch Polyploidisierung oder andere genetische Inkompatibilität hervorgerufen
-- oft ein schneller Prozess, der in wenigen Generationen auftritt
+- Sexuelle Fortpflanzung reduziert Konkurrenz zwischen Eltern und ihren Nachkommen
+  - Eltern und ihre Nachkommen sind nicht ident zueinander
+  - &#8594; leicht unterschiedliche ökologische Nische
+  - &#8594; reduzierte Konkurrenz zwischen Eltern und ihre Nachkommen
+- Vgl. asexuelle Fortpflanzung: Konkurrenz zwischen Eltern und ihren Nachkommen vorhanden
 @ulend
 @snapend
 
-
 ---?color=#005f6b
 @snap[north-west span-100]
-##### Parapatrische Artbildung
+##### Hypothese der Konkurrenz zwischen Geschwistern
 @snapend
-
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Spezialform der allopatrische Artbildung
-- eine am Rand des Ursprungareals lebende Populationen entwickelt zusehend Fortpflanzungsbarrieren
-- Fortpflanzung hauptsächlich auf Hybridzonen zwischen Arealen beschränkt
-- Genfluss findet via Migranten und über Introgression mit den Hybriden statt
-- mit der Zeit festigen sich Fortpflanzungsbarrieren
-@ulend
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
-##### Peripatrische Artbildung
-@snapend
-
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- Spezialform der allopatrische Artbildung
-- basiert auf geografischer Isolation einer Teilpopulation, wobei geographische Isolation unvollständig
-- häufig bei Inselpopulation versus Kontinentalpopulation
-- mit der Zeit festigen sich Fortpflanzungsbarrieren
-@ulend
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
-##### Prä- und postzygotische Fortpflanzungsbarrieren
-@snapend
-
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- Präzygotische Isolation verhindert zwischenartliche Kreuzung schon vor Bildung der Zygote
-- Beispiele: 
-  - unterschiedliches Balzverhalten, unterschiedliche Blütezeit
-- Postzygotische Isolation verhindert zwischenartliche Kreuzung nach Bildung der Zygote, reduziert Vitalität oder Fertilität der hybriden Nachkommen
-- Beispiele:
-  - reduzierte Lebensfähigkeit der F1-Hybriden, Hybridzusammenbruch
-@ulend
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
-##### Homoploide Hybridisierung
-@snapend
-
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- stellt Form der sympatrischen Artbildung dar
-- Kreuzung zweier unterschiedlicher Arten (da reproduktive Isolation nicht vollständig)
-- entstehende Hybridart besitzt diploiden Chromosomensatz
-- Vorteile: 
-  - potentielle Lösung von Inzucht-Problemen einer Population
-  - Hybride eng verwandter Arten haben oft kräftigeren Wuchs als die Eltern
-- Nachteile:
-  - Hybridisierung reduziert oft Fitness im Vergleich zu Elternarten
-@ulend
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
-##### Polyploidisierung
-@snapend
-
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- stellt Form der sympatrischen Artbildung dar
-- stellt meist einen postzygotische Isolationsmechanismus dar
-- Polyploid fast immer von Elternarten reproduktiv isoliert
-- Jedoch: bei Hybriden (!) kann reduzierte Fertilität durch Polyploidisierung oft wiedergewonnen werden
-- Zwei Formen der Polyploidisierung: Auto- und Allopolyploidie
-@ulend
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
-##### Autopolyploidie
-@snapend
-
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- Entstehung unreduzierter, also diploider Gameten (2n)
-- Fusion unreduzierter Gameten vom selben Individuum oder von verschiedenen Individuen derselben Art &#8594; tetraploides Individuum
-- tetraploide Individuen können sich selbst bestäuben/befruchten oder Kreuzungen mit anderen tetraploiden Formen der gleichen Art eingehen
-- Rückkreuzung mit Population der Eltern nicht möglich
-@ulend
-@snapend
-
-
----?color=#005f6b
-@snap[north-west span-100]
-##### Allopolyploidie
-@snapend
-
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- homoploide Hybridisierung, gefolgt von Autopolyploidisierung
-- nach homoploider Hybridisierung typischerweise Probleme bei Meiose
-- außerdem starker Selektionsdruck zur Wiedergewinnung der Rückkreuzungsmöglichkeit
-- Lösung ist Autopolyploidiserung &#8594; Wiedergewinnung teilweiser Fertilität, auch mit Elterngeneration
+- Sexuelle Fortpflanzung reduziert Konkurrenz zwischen Geschwistern
+  - Geschwister sind nicht ident zueinander
+  - &#8594; leicht unterschiedliche ökologische Nische
+  - &#8594; reduzierte Konkurrenz zwischen Geschwistern
+- Vgl. asexuelle Fortpflanzung: Konkurrenz zwischen Geschwistern vorhanden
 @ulend
 @snapend
 
 
 ---?color=#005f6b
 @snap[north span-100]
-##### S Seminar 03
+##### S Seminar 05
 #### Vorlesung
 @snapend
 @snap[span-100]
