@@ -66,7 +66,7 @@
 @ul[list-spaced-bullets text-08]
 - automatische Generierung genetischer Diversität unter den Nachkommen
 - &#8756; notwendige genetische Variabilität, an der natürliche Selektion ansetzen kann
-- &#8756; schnellere Anpassung an verändernde Umweltbedingungen
+- &#8756; *schnellere Anpassung an verändernde Umweltbedingungen*
 - Nutzung der bewährten Allele der Eltern, aber in neuer Kombination
 - Vorteile also vor allem auf Ebene der Population
 @ulend
@@ -127,6 +127,64 @@
 - Vgl. asexuelle Fortpflanzung: Konkurrenz zwischen Geschwistern vorhanden
 @ulend
 @snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Spezialform: Parthenogese
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Vermehrung basiert auf nur einem Elternteil
+- Gameten (zumindestens eines Typs) werden ausgebildet, aber keine Befruchtung durchgeführt
+- Konkret: Individuum entsteht aus eine nicht-reduzierten Gameten
+- Parthenogese ist eine sekundär reduzierte Form der sexuellen Fortpflanzung
+  - &#8594; unterschiedliche Formen der Parthenogese
+  - &#8594; vielfache, unabhängige Entstehung
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Vor- und Nachteile der Parthenogese
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Nachteile:
+  - reduzierte genetische Variabilität in Population
+- Vorteile:
+  - schnelle Besiedelung neuer Lebensräume
+  - Tolerierung großer Schwankungen an Populationsgröße
+- Parthenogese ist längerfristig nur tragbar, wenn wieder auf sexuelle Reproduktion umgestellt werden kann
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Informationsaustausch zwischen Generationen
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Bei asexueller Fortpflanzung:
+  - ganze Genome werden transferiert
+- Bei sexueller Fortpflanzung:
+  - Allele werden transferiert
+- Allele sind also die Grundeinheit der Evolution bei Lebewesen, die sich sexuell fortpflanzen
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Informationsaustausch zwischen Generationen
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Grundsätze beim Menschen (bzw. bei Wirbeltieren):
+  - Alle unsere Allele haben wir von unseren Eltern geerbt, aber keiner unserer Vorfahren besaß die gleiche Allel-Kombination wie wir
+  - Unsere Geschwister haben die gleichen Allele wie wir, aber keiner unserer Geschwister besitzt die gleiche Allel-Kombination wie wir
+  - Die Neukombination der Allele eines Individuums findet während der Keimzellenbildung der Eltern statt
+@ulend
+@snapend
+
 
 
 ---?color=#005f6b
