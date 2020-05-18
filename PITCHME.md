@@ -65,8 +65,8 @@
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
 - automatische Generierung genetischer Diversität unter den Nachkommen
-- &#8597; notwendige genetische Variabilität, an der natürliche Selektion ansetzen kann
-- &#8597; schnellere Anpassung an verändernde Umweltbedingungen
+- &#8756; notwendige genetische Variabilität, an der natürliche Selektion ansetzen kann
+- &#8756; schnellere Anpassung an verändernde Umweltbedingungen
 - Nutzung der bewährten Allele der Eltern, aber in neuer Kombination
 - Vorteile also vor allem auf Ebene der Population
 @ulend
@@ -82,7 +82,7 @@
 - Meiose notwendig
 - Aufwand bei Partnersuche
 - Co-Lokalisation mit Partner notwendig
-- &#8597; Wann ist sexuelle Fortpflanzung also sinnvoll? &#8594; verschiedene Erklärungsansätze
+- &#8756; Wann ist sexuelle Fortpflanzung also sinnvoll? &#8594; verschiedene Erklärungsansätze
 @ulend
 @snapend
 
