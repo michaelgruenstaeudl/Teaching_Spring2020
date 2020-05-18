@@ -242,7 +242,7 @@ Quelle: K. Reichel, modifiziert von M. Grünstäudl
 ##### Kernphasenwechsel der Haplonten
 @snapend
 @snap[span-75]
-![IMAGE](assets/sci/GametischerKernphasenwechsel_Wikipedia2013.png)
+![IMAGE](assets/sci/ZygotischerKernphasenwechsel_Wikipedia2013.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: https://de.wikipedia.org/wiki/Kernphasenwechsel, modifiziert von M. Grünstäudl
@@ -270,7 +270,7 @@ Quelle: https://de.wikipedia.org/wiki/Kernphasenwechsel, modifiziert von M. Grü
 ##### Kernphasenwechsel der Diplonten
 @snapend
 @snap[span-75]
-![IMAGE](assets/sci/ZygotischerKernphasenwechsel_Wikipedia2013.png)
+![IMAGE](assets/sci/GametischerKernphasenwechsel_Wikipedia2013.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: https://de.wikipedia.org/wiki/Kernphasenwechsel, modifiziert von M. Grünstäudl
@@ -317,7 +317,7 @@ Quelle: https://de.wikipedia.org/wiki/Kernphasenwechsel, modifiziert von M. Grü
 @snap[north-west span-100]
 ##### Kernphasenwechsel der Haplo-Diplonten
 @snapend
-@snap[span-75]
+@snap[span-60]
 ![IMAGE](assets/sci/MeioseSchema_BiologieinFarbtafeln_Richard2013_Tafel1_27b.png)
 @snapend
 @snap[south span-100 text-04]
@@ -380,7 +380,7 @@ Quelle: Richard 2013: Biologie in Farbtafeln: Tafel 1 - 27b
 @snap[north-west span-100]
 ##### Kernphasenwechsel der Haplo-Diplonten
 @snapend
-@snap[span-75]
+@snap[span-60]
 ![IMAGE](assets/sci/Sexualdimorphismus.png)
 @snapend
 @snap[south span-100 text-04]
