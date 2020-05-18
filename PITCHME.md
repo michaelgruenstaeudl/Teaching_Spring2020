@@ -314,10 +314,10 @@
 @snapend
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- unterschiedliche Formen der Selektion, welche auf Basis des Geschlechts (d.h. Art der produzierten Gameten) stattfinden
-- erklärt wichtige Aspekte des Sexualdimorphismus, der relativen Geschlechterhäufigkeiten in Populationen und von Verhaltensunterschiede
+- unterschiedliche Formen der Selektion, welche auf Basis des Geschlechts stattfinden
+- erklärt Aspekte des Sexualdimorphismus, der relativen Geschlechterhäufigkeiten und der Verhaltensunterschiede
 - bereits Charles Darwin postulierte die "geschlechtliche Zuchtwahl", um nachteilig erscheinende Eigenschaften zu erklären
-- viele Formen des Sexualdimorphismus haben außerhalb der Fortpflanzung nämlich keine Bedeutung oder reduzieren sogar Überlebenschancen des Trägers
+- viele Formen des Sexualdimorphismus reduzieren sogar Überlebenschancen des Trägers
 - Beispiele: exzessiv ausgebildete sekundäre Geschlechtsmerkmale (z.B. Hirschgeweih, Prachtgefieder)
 @ulend
 @snapend
@@ -330,8 +330,8 @@
 @ul[list-spaced-bullets text-08]
 - Konzept der Elterninvestition lässt die Geschlechterrollen und die Intensität des Paarungswettbewerbs vorherzusagen
 - Elterntzeil mit höheren längerfristigen Aufwand (z.B. bei der Nachversorgung der Kinder) wählt i.d.R. seinen Partner aus, nicht umgekehrt
-- &#8594; andere Partner (welcher den geringeren längerfristigen Aufwand hat) ist einem starken intrasexuellen Konkurrenzdruck ausgesetzt
-- Kriterien der Partnerwahl sind komplex; es haben sich mehrere Hypothesen entwickelt
+- &#8594; andere Partner ist einem starken intrasexuellen Konkurrenzdruck ausgesetzt
+- Kriterien der Partnerwahl sind komplex; Entwicklung mehrerer Hypothesen
 @ulend
 @snapend
 
