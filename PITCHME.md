@@ -289,7 +289,7 @@
 @snapend
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- es trennen sich die homologen Chromosomen jedes Chromosomenpaares, indem sie zu den gegenüberliegenden Polen der Zelle gezogen werden
+- Trennung der homologen Chromosomen jedes Chromosomenpaares, indem sie zu den gegenüberliegenden Polen gezogen werden
 - Zufall bestimmt, welches Chromosom des jeweiligen Paares zum einen oder zum anderen Pol wandert
 - Beim Menschen (23 Chromosome im haploiden Chromosomensatz) sind 2^23 Chromosomen-Kombinationen in den Gameten möglich
 - Segregation alleine würde bereits dafür sorgen, dass jede neu entstandene Zellen eine andere Allele-Kombination trägt als Zellen der Eltern
@@ -308,7 +308,47 @@
 @ulend
 @snapend
 
+---?color=#005f6b
+@snap[north-west span-100]
+##### Sexuelle Selektion
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- unterschiedliche Formen der Selektion, welche auf Basis des Geschlechts (d.h. Art der produzierten Gameten) stattfinden
+- erklärt wichtige Aspekte des Sexualdimorphismus, der relativen Geschlechterhäufigkeiten in Populationen und von Verhaltensunterschiede
+- bereits Charles Darwin postulierte die "geschlechtliche Zuchtwahl", um nachteilig erscheinende Eigenschaften zu erklären
+- viele Formen des Sexualdimorphismus haben außerhalb der Fortpflanzung nämlich keine Bedeutung oder reduzieren sogar Überlebenschancen des Trägers
+- Beispiele: exzessiv ausgebildete sekundäre Geschlechtsmerkmale (z.B. Hirschgeweih, Prachtgefieder)
+@ulend
+@snapend
 
+---?color=#005f6b
+@snap[north-west span-100]
+##### Erkenntnis: Elterninvestment bestimmt Wahlverhalten
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Konzept der Elterninvestition lässt die Geschlechterrollen und die Intensität des Paarungswettbewerbs vorherzusagen
+- Elterntzeil mit höheren längerfristigen Aufwand (z.B. bei der Nachversorgung der Kinder) wählt i.d.R. seinen Partner aus, nicht umgekehrt
+- &#8594; andere Partner (welcher den geringeren längerfristigen Aufwand hat) ist einem starken intrasexuellen Konkurrenzdruck ausgesetzt
+- Kriterien der Partnerwahl sind komplex; es haben sich mehrere Hypothesen entwickelt
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Beispiele für Hypothesen für intersexuelle Selektion
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- good genes hypothesis:
+  - die für Partnerwahl herangezogenen Merkmale sind *direkte* Indikatoren für die Gesundheit des anderen Partners
+  - Beispiel: Verblassen von Hautfarben bei Krankheit oder Parasitenbefall
+- handicap hypothesis:
+  - die für die Partnerwahl herangezogenen Merkmale sind *indirekte* Indikatoren für die Gesundheit des anderen Partners
+  - Erreichen der Geschlechtsreife trotz langer Schwanzfedern
+@ulend
+@snapend
 
 ---?color=#005f6b
 @snap[north span-100]
