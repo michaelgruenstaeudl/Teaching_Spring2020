@@ -52,9 +52,9 @@
 - fast immer bisexuelle Fortpflanzung: zwei Typen von Keimzellen (Gameten), die via Syngamie verschmelzen
 - meistens Unterscheidung in einen größeren, immobilen Typ der Gameten und einen kleineren, beweglichen Typ
 - benötigt meiotischen Kernphasenwechsel während der Gametenbildung:
-diploider Chromosomensatz der Ausgangszelle wird halbiert &#8594; haploide Gameten
+  - diploider Chromosomensatz der Ausgangszelle wird halbiert &#8594; haploide Gameten
 - benötigt Syngamie:
-Verschmelzung von zwei haploiden Gameten &#8594; diploide Somazelle ("Zygote")
+  - Verschmelzung von zwei haploiden Gameten &#8594; diploide Somazelle ("Zygote")
 @ulend
 @snapend
 
@@ -65,8 +65,8 @@ Verschmelzung von zwei haploiden Gameten &#8594; diploide Somazelle ("Zygote")
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
 - automatische Generierung genetischer Diversität unter den Nachkommen
-- &#8596; notwendige genetische Variabilität, an der natürliche Selektion ansetzen kann
-- &#8596; schnellere Anpassung an verändernde Umweltbedingungen
+- &#8597; notwendige genetische Variabilität, an der natürliche Selektion ansetzen kann
+- &#8597; schnellere Anpassung an verändernde Umweltbedingungen
 - Nutzung der bewährten Allele der Eltern, aber in neuer Kombination
 - Vorteile also vor allem auf Ebene der Population
 @ulend
@@ -82,7 +82,7 @@ Verschmelzung von zwei haploiden Gameten &#8594; diploide Somazelle ("Zygote")
 - Meiose notwendig
 - Aufwand bei Partnersuche
 - Co-Lokalisation mit Partner notwendig
-- &#8596; Wann ist sexuelle Fortpflanzung also sinnvoll? &#8594; verschiedene Erklärungsansätze
+- &#8597; Wann ist sexuelle Fortpflanzung also sinnvoll? &#8594; verschiedene Erklärungsansätze
 @ulend
 @snapend
 
