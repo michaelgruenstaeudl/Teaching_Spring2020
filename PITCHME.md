@@ -199,6 +199,17 @@
 
 ---?color=#005f6b
 @snap[north-west span-100]
+##### Schema des Kernphasenwechsels
+@snapend
+@snap[span-75]
+![IMAGE](assets/sci/GenerationswechselSchema.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: K. Reichel, modifiziert von M. Grünstäudl
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
 ##### Sexuelle Vermehrung und Kernphasenwechsel
 @snapend
 @snap[west span-100]
@@ -210,7 +221,6 @@
     - diploider Chromosomensatz wird wieder in zwei haploide Chromosomensätze getrennt
 @ulend
 @snapend
-
 
 ---?color=#005f6b
 @snap[north-west span-100]
@@ -229,6 +239,17 @@
 
 ---?color=#005f6b
 @snap[north-west span-100]
+##### Kernphasenwechsel der Haplonten
+@snapend
+@snap[span-75]
+![IMAGE](assets/sci/GametischerKernphasenwechsel_Wikipedia2013.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: https://de.wikipedia.org/wiki/Kernphasenwechsel, modifiziert von M. Grünstäudl
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
 ##### Formen von Organismen nach Dominanz der Kernphasen
 @snapend
 @snap[west span-100]
@@ -242,6 +263,28 @@
     - &#8594; beiden Phasen sind langlebig
     - &#8594; Organismus existiert in beiden Phasen
 @ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Kernphasenwechsel der Diplonten
+@snapend
+@snap[span-75]
+![IMAGE](assets/sci/ZygotischerKernphasenwechsel_Wikipedia2013.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: https://de.wikipedia.org/wiki/Kernphasenwechsel, modifiziert von M. Grünstäudl
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Kernphasenwechsel der Haplo-Diplonten
+@snapend
+@snap[span-75]
+![IMAGE](assets/sci/HeterophasischerKernphasenwechsel_Wikipedia2013.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: https://de.wikipedia.org/wiki/Kernphasenwechsel, modifiziert von M. Grünstäudl
 @snapend
 
 ---?color=#005f6b
@@ -268,6 +311,17 @@
   - *Crossing-Over* (oft als "Rekombination" benannt)
   - *Zufällige Segregation*
 @ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Kernphasenwechsel der Haplo-Diplonten
+@snapend
+@snap[span-75]
+![IMAGE](assets/sci/MeioseSchema_BiologieinFarbtafeln_Richard2013_Tafel1_27b.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Richard 2013: Biologie in Farbtafeln: Tafel 1 - 27b
 @snapend
 
 ---?color=#005f6b
@@ -324,6 +378,18 @@
 
 ---?color=#005f6b
 @snap[north-west span-100]
+##### Kernphasenwechsel der Haplo-Diplonten
+@snapend
+@snap[span-75]
+![IMAGE](assets/sci/Sexualdimorphismus.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: https://de.wikipedia.org/wiki/Sexualdimorphismus
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
 ##### Erkenntnis: Elterninvestment bestimmt Wahlverhalten
 @snapend
 @snap[west span-100]
@@ -331,7 +397,7 @@
 - Konzept der Elterninvestition lässt die Geschlechterrollen und die Intensität des Paarungswettbewerbs vorherzusagen
 - Elterntzeil mit höheren längerfristigen Aufwand (z.B. bei der Nachversorgung der Kinder) wählt i.d.R. seinen Partner aus, nicht umgekehrt
 - &#8594; andere Partner ist einem starken intrasexuellen Konkurrenzdruck ausgesetzt
-- Kriterien der Partnerwahl komplex &#8594; Entwicklung mehrerer Hypothesen
+- Kriterien der Partnerwahl komplex &#8594;  mehrere Hypothesen
 @ulend
 @snapend
 
