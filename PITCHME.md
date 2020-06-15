@@ -32,11 +32,10 @@
 @snapend
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Rekonstruktion der Phylogenese, indem man schrittweise Kladen definiert
-- Focus dieser Art der Systematik liegt auf Stammbaum-Verzweigungen (Kladogenese)
+- Fokus dieser Art der Systematik liegt auf Stammbaum-Verzweigungen (Kladogenese)
 - nicht/wenig berücksichtigt wird die Entwicklung innerhalb eine Linie (Anagenese)
 @ulend
-@snap[span-45]
+@snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
 @snapend
 @snap[south span-100 text-04]
@@ -49,11 +48,26 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @snapend
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- Unterteilung der Organismen in Paare von Schwesternarten, welche durch gemeinsame Apomorphien (Synapomorphien) identifiziert sind
+- Unterteilung der Organismen in Paare von Schwesternarten, welche durch gemeinsame Apomorphien (*Synapomorphien*) identifiziert sind
 - jedes Schwesterarten-Paar besitzt gemeinsamen Vorfahren, bei welchem die Apomorphie das erste Mal auftrat
-- Endergebnis ist ein ineinander gegliedertes System von Schwestergruppen-Paaren (Kladogramm)
 @ulend
-@snap[span-45]
+@snap[span-50]
+![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.6
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Phylogenetische Systematik
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Endergebnis ist ein ineinander gegliedertes System von Schwestergruppen-Paaren (Kladogramm)
+- unterschiedliche Darstellungsformen möglich bei gleichem Informationsgehalt
+@ulend
+@snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
 @snapend
 @snap[south span-100 text-04]
@@ -69,9 +83,9 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 - Jeder Verzweigungspunkt in einem Kladogramm stellt eine Art dar, die
   - in der Vergangenheit real existierte, und
   - sich in zwei Schwesterarten aufgespalten hat
-- Nach kladistischen Methode entstehen neue Arten nur dann, wenn sich eine Stammart in zwei Schwesterarten auftrennt (Dichotomie)
+- neue Arten entstehen nur dann, wenn sich Stammart in zwei Schwesterarten auftrennt (Dichotomie)
 @ulend
-@snap[span-45]
+@snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
 @snapend
 @snap[south span-100 text-04]
@@ -114,7 +128,22 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 - Endergebnis der phylogenetischen Systematik ist ein ineinander gegliedertes System von Stammarten und deren Nachkommen &#8594; eine *monophyletische* Gruppe
 - Ein Kladogramm/Phylogramm begründet die Monophylie der dargestellten Gruppen über die zugrundeliegenden Synapomorphien
 @ulend
-@snap[span-45]
+@snap[span-50]
+![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Monophylie
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Ein Kladogramm/Phylogramm begründet die Monophylie der dargestellten Gruppen über die zugrundeliegenden Synapomorphien
+@ulend
+@snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
 @snap[south span-100 text-04]
@@ -128,10 +157,41 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
 - phylogenetischen Systematik erkennt nur monophyletische Gruppen als Basis für eine Klassifizierung an
-  - *Paraphyletische* Gruppen: Gruppen von Organismen, die nur Abkömmlinge einer Stammart, aber nicht alle Nachkommen dieser Stammart enthalten
-  - *Polyphyletsiche* Gruppen: Gruppen von Organismen, die auf unterschiedliche Stammarten zurückgehen
+  - *Paraphyletische* Gruppen
+  - *Polyphyletische* Gruppen
 @ulend
-@snap[span-45]
+@snap[span-50]
+![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Paraphyletische Gruppen
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Gruppen von Organismen, die nur Abkömmlinge einer Stammart, aber nicht alle Nachkommen dieser Stammart enthalten
+@ulend
+@snap[span-50]
+![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Polyphyletische Gruppen
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Gruppen von Organismen, die auf unterschiedliche Stammarten zurückgehen
+@ulend
+@snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
 @snap[south span-100 text-04]
@@ -144,10 +204,9 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snapend
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
-- viele para- und polyphyletische Gruppen sind bis heute sprachlich gebräuchlich
-- phylogenetische Systematik versucht dem entgegenzuwirken &#8594; para- und polyphyletische Gruppen werden durch monophyletische Gruppierungen ersetzt
+- phylogenetische Systematik versucht Verwendung von para- und polyphyletischen Gruppen entgegenzuwirken &#8594; werden durch monophyletische Gruppierungen ersetzt
 @ulend
-@snap[span-45]
+@snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
 @snap[south span-100 text-04]
@@ -158,13 +217,13 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[north-west span-100]
 ##### Innen- und Außengruppe
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - *Innengruppe*: jene Organismen, deren Verwandtschaftsbeziehungen untersucht werden sollen
 - Um zu unterscheiden, welche Merkmalszustände ursprünglich (plesiomorph) und welche als abgeleitet (apomorph) sind: Vergleich der Innengruppe mit einer Außengruppe
 - *Außengruppe*: teilt mit der Innengruppe einen nah verwandten gemeinsamen Vorfahren aber gehört nicht der Innengruppe an
 @ulend
-@snap[span-45]
+@snap[east span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_4_InnengruppeAussengruppe.png)
 @snapend
 @snap[south span-100 text-04]
@@ -206,7 +265,7 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @ul[list-spaced-bullets text-08]
 - Beispiel: um optimalen Stammbaum für nur zehn verwandte Sequenzen zu finden, müssen ca. zwei Millionen theoretisch möglichen Bäumen untersucht werden (bei Ignorieren von Astlängen)
 @ulend
-@snap[span-45]
+@snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb59_AnzahlVonBaumen1.png)
 @snapend
 @snap[south span-100 text-04]
@@ -223,7 +282,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.59
 - Grundidee ist, dass evolutive Szenarien umso wahrscheinlicher sind, je weniger einzelne Änderungsschritte die jeweilige Stammbaumhypothese erfordert
 - Jedoch: algorithmische Implementierung des Parsimonie-Prinzips oft zu langsam für molekularen Daten
 @ulend
-@snap[span-45]
+@snap[span-50]
 ![IMAGE](assets/sci/BundaBegall2004_Abb3_19_MaximumParsimony.png)
 @snapend
 @snap[south span-100 text-04]
@@ -242,7 +301,7 @@ Quelle: Burda and Begall 2004: Evolution - Ein Lese-Lehrbuch: Abb. 3.19
   - Neighbour Joining (abgekürzt NJ)
   - Maximum Likelihood (abgekürzt ML)
 @ulend
-@snap[span-45]
+@snap[span-50]
 ![IMAGE](assets/sci/YangAndRannala2012_DistanzMethoden.png)
 @snapend
 @snap[south span-100 text-04]
