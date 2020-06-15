@@ -35,9 +35,9 @@
 - Fokus dieser Art der Systematik liegt auf Stammbaum-Verzweigungen (Kladogenese)
 - nicht/wenig berücksichtigt wird die Entwicklung innerhalb eine Linie (Anagenese)
 @ulend
-@snapend
 @snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
+@snapend
 @snapend
 @snap[south span-100 text-04]
 Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.6
@@ -52,9 +52,9 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 - Unterteilung der Organismen in Paare von Schwesternarten, welche durch gemeinsame Apomorphien (*Synapomorphien*) identifiziert sind
 - jedes Schwesterarten-Paar besitzt gemeinsamen Vorfahren, bei welchem die Apomorphie das erste Mal auftrat
 @ulend
-@snapend
 @snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
+@snapend
 @snapend
 @snap[south span-100 text-04]
 Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.6
@@ -89,9 +89,9 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
 @snapend
+@snapend
 @snap[south span-100 text-04]
 Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.6
-@snapend
 
 ---?color=#005f6b
 @snap[north-west span-100]
@@ -132,6 +132,7 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snapend
@@ -146,6 +147,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @ulend
 @snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
+@snapend
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
@@ -164,6 +166,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snapend
@@ -180,6 +183,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snapend
@@ -194,6 +198,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @ulend
 @snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
+@snapend
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
@@ -210,6 +215,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snapend
@@ -224,8 +230,9 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 - Um zu unterscheiden, welche Merkmalszustände ursprünglich (plesiomorph) und welche als abgeleitet (apomorph) sind: Vergleich der Innengruppe mit einer Außengruppe
 - *Außengruppe*: teilt mit der Innengruppe einen nah verwandten gemeinsamen Vorfahren aber gehört nicht der Innengruppe an
 @ulend
-@snap[east span-50]
+@snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_4_InnengruppeAussengruppe.png)
+@snapend
 @snapend
 @snap[south span-100 text-04]
 Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.4
@@ -269,6 +276,7 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @snap[span-50]
 ![IMAGE](assets/sci/Waegle2001_Abb59_AnzahlVonBaumen1.png)
 @snapend
+@snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.59
 @snapend
@@ -285,6 +293,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.59
 @ulend
 @snap[span-50]
 ![IMAGE](assets/sci/BundaBegall2004_Abb3_19_MaximumParsimony.png)
+@snapend
 @snapend
 @snap[south span-100 text-04]
 Quelle: Burda and Begall 2004: Evolution - Ein Lese-Lehrbuch: Abb. 3.19
@@ -304,6 +313,7 @@ Quelle: Burda and Begall 2004: Evolution - Ein Lese-Lehrbuch: Abb. 3.19
 @ulend
 @snap[span-50]
 ![IMAGE](assets/sci/YangAndRannala2012_DistanzMethoden.png)
+@snapend
 @snapend
 @snap[south span-100 text-04]
 Quelle: Yang and Rannala (2012)
