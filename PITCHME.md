@@ -141,7 +141,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[north-west span-100]
 ##### Monophylie
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Ein Kladogramm/Phylogramm begründet die Monophylie der dargestellten Gruppen über die zugrundeliegenden Synapomorphien
 @ulend
@@ -228,6 +228,21 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @ul[list-spaced-bullets text-08]
 - *Innengruppe*: jene Organismen, deren Verwandtschaftsbeziehungen untersucht werden sollen
 - Um zu unterscheiden, welche Merkmalszustände ursprünglich (plesiomorph) und welche als abgeleitet (apomorph) sind: Vergleich der Innengruppe mit einer Außengruppe
+@ulend
+@snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Dreesmann2011_Abb14_4_InnengruppeAussengruppe.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.4
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Innen- und Außengruppe
+@snapend
+@snap[west span-50]
+@ul[list-spaced-bullets text-08]
 - *Außengruppe*: teilt mit der Innengruppe einen nah verwandten gemeinsamen Vorfahren aber gehört nicht der Innengruppe an
 @ulend
 @snapend
@@ -274,7 +289,7 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 - Beispiel: um optimalen Stammbaum für nur zehn verwandte Sequenzen zu finden, müssen ca. zwei Millionen theoretisch möglichen Bäumen untersucht werden (bei Ignorieren von Astlängen)
 @ulend
 @snapend
-@snap[east span-20]
+@snap[east span-30]
 ![IMAGE](assets/sci/Waegle2001_Abb59_AnzahlVonBaumen1.png)
 @snapend
 @snap[south span-100 text-04]
