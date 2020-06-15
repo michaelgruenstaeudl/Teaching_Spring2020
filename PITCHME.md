@@ -35,12 +35,13 @@
 - Fokus dieser Art der Systematik liegt auf Stammbaum-Verzweigungen (Kladogenese)
 - nicht/wenig berücksichtigt wird die Entwicklung innerhalb eine Linie (Anagenese)
 @ulend
+@snapend
 @snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.6
-@snapend
+
 
 ---?color=#005f6b
 @snap[north-west span-100]
@@ -51,12 +52,12 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 - Unterteilung der Organismen in Paare von Schwesternarten, welche durch gemeinsame Apomorphien (*Synapomorphien*) identifiziert sind
 - jedes Schwesterarten-Paar besitzt gemeinsamen Vorfahren, bei welchem die Apomorphie das erste Mal auftrat
 @ulend
+@snapend
 @snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.6
-@snapend
 
 ---?color=#005f6b
 @snap[north-west span-100]
@@ -70,9 +71,9 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @snap[span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_6_DarstellungVonKladogramm.png)
 @snapend
+@snapend
 @snap[south span-100 text-04]
 Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.6
-@snapend
 
 ---?color=#005f6b
 @snap[north-west span-100]
