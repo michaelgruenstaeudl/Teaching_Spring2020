@@ -141,13 +141,13 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[north-west span-100]
 ##### Monophylie
 @snapend
-@snap[west span-50]
+@snap[west span-100]
 @ul[list-spaced-bullets text-08]
 - Ein Kladogramm/Phylogramm begründet die Monophylie der dargestellten Gruppen über die zugrundeliegenden Synapomorphien
 @ulend
 @snapend
 @snap[east span-50]
-![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
+![IMAGE](assets/sci/Dreesmann2011_Abb14_4_InnengruppeAussengruppe.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
@@ -157,7 +157,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[north-west span-100]
 ##### Monophylie, Paraphylie, Polyphylie
 @snapend
-@snap[west span-150]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - phylogenetischen Systematik erkennt nur monophyletische Gruppen als Basis für eine Klassifizierung an
   - *Paraphyletische* Gruppen
@@ -230,9 +230,9 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 - Um zu unterscheiden, welche Merkmalszustände ursprünglich (plesiomorph) und welche als abgeleitet (apomorph) sind: Vergleich der Innengruppe mit einer Außengruppe
 - *Außengruppe*: teilt mit der Innengruppe einen nah verwandten gemeinsamen Vorfahren aber gehört nicht der Innengruppe an
 @ulend
+@snapend
 @snap[east span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_4_InnengruppeAussengruppe.png)
-@snapend
 @snapend
 @snap[south span-100 text-04]
 Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unterricht: Abb.14.4
@@ -246,7 +246,7 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @ul[list-spaced-bullets text-08]
 - Molekulare Daten sind heutzutage die am häufigsten verwendeten Daten für phylogenetische Systematik
 - Genom eines Organismus enthält Fülle von Merkmalen für die phylogenetische Analyse: Nukleotid-Sequenzen der DNA oder Aminosäure-Sequenzen von Proteinen
-- Sequenzen von Nukleotiden oder Aminosäuren werden genutzt, um Stammbäume zu erstellen und evolutionäre Beziehungen zwischen den Arten zu identifizieren
+- Sequenzen von Nukleotiden oder Aminosäuren werden genutzt, um Stammbäume zu erstellen
 - Ähnlichkeit zwischen Sequenzen unterschiedlicher Taxa wird über ein multiples Sequenzalignment bestimmt
 @ulend
 @snapend
@@ -269,13 +269,13 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @snap[north-west span-100]
 ##### Stammbaumrekonstruktion der molekularen phylogenetischen Systematik
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Beispiel: um optimalen Stammbaum für nur zehn verwandte Sequenzen zu finden, müssen ca. zwei Millionen theoretisch möglichen Bäumen untersucht werden (bei Ignorieren von Astlängen)
 @ulend
-@snap[span-50]
-![IMAGE](assets/sci/Waegle2001_Abb59_AnzahlVonBaumen1.png)
 @snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb59_AnzahlVonBaumen1.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.59
@@ -289,9 +289,24 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.59
 @ul[list-spaced-bullets text-08]
 - Parsimonie-Prinzip (Sparsamkeits-Prinzip) wird auch in molekulare phylogenetische Systematik verwendet
 - Grundidee ist, dass evolutive Szenarien umso wahrscheinlicher sind, je weniger einzelne Änderungsschritte die jeweilige Stammbaumhypothese erfordert
+@ulend
+@snap[center span-50]
+![IMAGE](assets/sci/BundaBegall2004_Abb3_19_MaximumParsimony.png)
+@snapend
+@snapend
+@snap[south span-100 text-04]
+Quelle: Burda and Begall 2004: Evolution - Ein Lese-Lehrbuch: Abb. 3.19
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Parsimonie-Prinzip
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
 - Jedoch: algorithmische Implementierung des Parsimonie-Prinzips oft zu langsam für molekularen Daten
 @ulend
-@snap[span-50]
+@snap[center span-50]
 ![IMAGE](assets/sci/BundaBegall2004_Abb3_19_MaximumParsimony.png)
 @snapend
 @snapend
@@ -307,11 +322,26 @@ Quelle: Burda and Begall 2004: Evolution - Ein Lese-Lehrbuch: Abb. 3.19
 @ul[list-spaced-bullets text-08]
 - Verwendung mathematischer Modelle für die evolutionäre Veränderung von DNA-Sequenzen
 - solche Modelle modellieren u.a. die unterschiedlichen Geschwindigkeiten des Austauschs von Nukleotiden oder mehrfache Änderungen einer Nukleotidsequenz an der gleichen Alignment-Position
+@ulend
+@snap[center span-50]
+![IMAGE](assets/sci/YangAndRannala2012_DistanzMethoden.png)
+@snapend
+@snapend
+@snap[south span-100 text-04]
+Quelle: Yang and Rannala (2012)
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Distanz-Methoden
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
 - bekanntesten Distanz-Methoden für die molekulare phylogenetische Systematik sind:
   - Neighbour Joining (abgekürzt NJ)
   - Maximum Likelihood (abgekürzt ML)
 @ulend
-@snap[span-50]
+@snap[center span-50]
 ![IMAGE](assets/sci/YangAndRannala2012_DistanzMethoden.png)
 @snapend
 @snapend
