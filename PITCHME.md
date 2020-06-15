@@ -121,17 +121,17 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @snapend
 
 ---?color=#005f6b
-@snap[north-west span-100]
+@snap[north-west span-50]
 ##### Monophylie
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Endergebnis der phylogenetischen Systematik ist ein ineinander gegliedertes System von Stammarten und deren Nachkommen &#8594; eine *monophyletische* Gruppe
 - Ein Kladogramm/Phylogramm begründet die Monophylie der dargestellten Gruppen über die zugrundeliegenden Synapomorphien
 @ulend
-@snap[span-50]
-![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
@@ -141,13 +141,13 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[north-west span-100]
 ##### Monophylie
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Ein Kladogramm/Phylogramm begründet die Monophylie der dargestellten Gruppen über die zugrundeliegenden Synapomorphien
 @ulend
-@snap[span-50]
-![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
@@ -157,15 +157,15 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[north-west span-100]
 ##### Monophylie, Paraphylie, Polyphylie
 @snapend
-@snap[west span-100]
+@snap[west span-150]
 @ul[list-spaced-bullets text-08]
 - phylogenetischen Systematik erkennt nur monophyletische Gruppen als Basis für eine Klassifizierung an
   - *Paraphyletische* Gruppen
   - *Polyphyletische* Gruppen
 @ulend
-@snap[span-50]
-![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
@@ -176,13 +176,13 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[north-west span-100]
 ##### Paraphyletische Gruppen
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Gruppen von Organismen, die nur Abkömmlinge einer Stammart, aber nicht alle Nachkommen dieser Stammart enthalten
 @ulend
-@snap[span-50]
-![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
@@ -192,13 +192,13 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[north-west span-100]
 ##### Polyphyletische Gruppen
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Gruppen von Organismen, die auf unterschiedliche Stammarten zurückgehen
 @ulend
-@snap[span-50]
-![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
@@ -208,13 +208,13 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[north-west span-100]
 ##### Monophylie, Paraphylie, Polyphylie
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - phylogenetische Systematik versucht Verwendung von para- und polyphyletischen Gruppen entgegenzuwirken &#8594; werden durch monophyletische Gruppierungen ersetzt
 @ulend
-@snap[span-50]
-![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb50_MonophylieParaphyliePolyphylie.png)
 @snapend
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
@@ -230,7 +230,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 - Um zu unterscheiden, welche Merkmalszustände ursprünglich (plesiomorph) und welche als abgeleitet (apomorph) sind: Vergleich der Innengruppe mit einer Außengruppe
 - *Außengruppe*: teilt mit der Innengruppe einen nah verwandten gemeinsamen Vorfahren aber gehört nicht der Innengruppe an
 @ulend
-@snap[span-50]
+@snap[east span-50]
 ![IMAGE](assets/sci/Dreesmann2011_Abb14_4_InnengruppeAussengruppe.png)
 @snapend
 @snapend
