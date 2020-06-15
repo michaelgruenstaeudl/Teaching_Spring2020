@@ -259,9 +259,9 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 @ul[list-spaced-bullets text-08]
 - Unterschiedliche Methoden der Stammbaumrekonstruktion an molekularen Daten
 - Allen diesen Methoden gemeinsam:
-  - Wie kann man jenen Stammbaum finden, der die Ähnlichkeiten im multiplen Sequenzalignment in optimaler Weise erklärt, obwohl die Anzahl möglichen Stammbäume extrem hoch ist.
-- Sequenzen von Nukleotiden oder Aminosäuren werden genutzt, um Stammbäume zu erstellen und evolutionäre Beziehungen zwischen den Arten zu identifizieren
-- Ähnlichkeit zwischen Sequenzen unterschiedlicher Taxa wird über ein multiples Sequenzalignment bestimmt
+  - Wie findet man jenen Stammbaum, der Ähnlichkeiten im Sequenzalignment in optimaler Weise erklärt, obwohl Anzahl möglicher Stammbäume extrem hoch?
+  - Sequenzen von Nukleotiden oder Aminosäuren werden genutzt, um Stammbäume zu erstellen und evolutionäre Beziehungen zwischen den Arten zu identifizieren
+  - Ähnlichkeit zwischen Sequenzen unterschiedlicher Taxa wird über ein multiples Sequenzalignment bestimmt
 @ulend
 @snapend
 
@@ -274,7 +274,7 @@ Quelle: Dreesmann et al. 2011: Evolutionsbiologie - Moderne Themen für den Unte
 - Beispiel: um optimalen Stammbaum für nur zehn verwandte Sequenzen zu finden, müssen ca. zwei Millionen theoretisch möglichen Bäumen untersucht werden (bei Ignorieren von Astlängen)
 @ulend
 @snapend
-@snap[east span-50]
+@snap[east span-20]
 ![IMAGE](assets/sci/Waegle2001_Abb59_AnzahlVonBaumen1.png)
 @snapend
 @snap[south span-100 text-04]
