@@ -169,7 +169,7 @@ Quelle: Knoop und Müller 2009: Gene und Stammbäume: Seite 291
 @snap[north-west span-100]
 ##### Homologie bei Nukleotiden
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Homologe Merkmale: solche Merkmale, die von einem gemeinsamen Vorfahren geerbt wurden
 - Homologie bei Nukleotiden erscheint paradox zu sein:
@@ -188,7 +188,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snap[north-west span-100]
 ##### Homologie bei Nukleotiden
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Homologie bei Nukleotiden erscheint paradox zu sein:
   - Sequenzen können auch nicht-homologe Zonen enthalten, die z.B. durch Verlust oder Insertion von Nukleotiden entstehen.
@@ -206,7 +206,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snap[north-west span-100]
 ##### Positionshomologie und Alinierung
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Homologie zwischen Sequenzen wird primär über Positionshomologie bestimmt
 - geschieht mit Hilfe von Alinierungsverfahren, welche DNA-Sequenzen derart untereinander schreiben, dass mutmaßlich homologe Positionen in derselben Spalte stehen
@@ -223,7 +223,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snap[north-west span-100]
 ##### Positionshomologie und Alinierung
 @snapend
-@snap[west span-100]
+@snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - DNA-Sequenzen können unterschiedlich lange sein
 - &#8756; in kürzere Sequenzen müssen Lücken (*gaps*) eingefügt werden, damit alle homologen Nukleotide in Spalten untereinander stehen (siehe Abbildung)
@@ -235,8 +235,6 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snapend
-
-
 
 
 ---?color=#005f6b
