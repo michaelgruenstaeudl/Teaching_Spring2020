@@ -105,7 +105,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.50
 @snap[west span-70]
 @ul[list-spaced-bullets text-08]
 - Mehrere Methoden, um die Robustheit von Stammbäumen zu berechnen
-- Beispiel: Das Weglassen einzelner Taxa, um Veränderung der Topologie des Stammbaumes zu sehen
+- Beispiel: Das Entfernen einzelner Taxa, um die resultierende Veränderung der Topologie des Stammbaumes zu messen
 @ulend
 @snapend
 @snap[east span-30]
@@ -122,7 +122,7 @@ Quelle: Knoop und Müller 2009: Gene und Stammbäume: Seite 291
 @snap[west span-70]
 @ul[list-spaced-bullets text-08]
 - Prozess des *bootstrapping* entfernt zufällig ausgewählte Taxa von einem Datensatz und dupliziert stattdessen andere Taxa (was die Dimensionen des Datensatzes erhält) &#8594; Stammbaumberechnung
-- Prozess des bootstrapping wird häufig wiederholt, um eine große Zahl von Stammbäumen (*bootstrap replicates) zu erzeugen
+- Prozess des bootstrapping wird häufig wiederholt, um eine große Anzahl von Stammbäumen (*bootstrap replicates*) zu erzeugen
 @ulend
 @snapend
 @snap[east span-30]
@@ -138,7 +138,7 @@ Quelle: Knoop und Müller 2009: Gene und Stammbäume: Seite 291
 @snapend
 @snap[west span-70]
 @ul[list-spaced-bullets text-08]
-- Zusammenfassung der Stammbaumberechnung von Hunderten solcher bootstrap replicates visualisiert Robustheit des auf allen Daten berechneten Stammbaumes.
+- Anschließend Zusammenfassung der Stammbaumrekonstruktion von Hunderten solcher bootstrap replicates, um Robustheit des eigentlichen Stammbaumes zu messen.
 @ulend
 @snapend
 @snap[east span-30]
@@ -155,7 +155,7 @@ Quelle: Knoop und Müller 2009: Gene und Stammbäume: Seite 291
 @snap[west span-70]
 @ul[list-spaced-bullets text-08]
 - Beispiel: Je häufiger man in diesem Replicate-Pool ein bestimmtes Verzweigungsevent sieht, umso wahrscheinlicher ist dieses auch im auf allen Daten basierenden Stammbaum.
-- Jedoch:  Bootstrapping funktioniert nur, wenn der zu testende Datensatz repräsentativ für die Gesamtheit aller Daten ist.
+- Jedoch: Bootstrapping funktioniert nur, wenn der reduzierte Datensatz repräsentativ für die Gesamtheit aller Daten ist.
 @ulend
 @snapend
 @snap[east span-30]
@@ -164,6 +164,79 @@ Quelle: Knoop und Müller 2009: Gene und Stammbäume: Seite 291
 @snap[south span-100 text-04]
 Quelle: Knoop und Müller 2009: Gene und Stammbäume: Seite 291
 @snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Homologie bei Nukleotiden
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Homologe Merkmale: solche Merkmale, die von einem gemeinsamen Vorfahren geerbt wurden
+- Homologie bei Nukleotiden erscheint paradox zu sein:
+  - Werden DNA-Sequenzen identisch kopiert, sind diese Kopien in allen Details homolog.
+  - Werden DNA-Sequenzen nicht identisch kopiert, können selbst gleiche Nukleotide analog sein, während ungleiche Nukleotide homolog sein können.
+@ulend
+@snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb100_Alinierung.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Homologie bei Nukleotiden
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Homologie bei Nukleotiden erscheint paradox zu sein:
+  - Sequenzen können auch nicht-homologe Zonen enthalten, die z.B. durch Verlust oder Insertion von Nukleotiden entstehen.
+  - &#8756; Homologie muss für jedes Nukleotide einzeln evaluiert werden (Positionshomologie)
+@ulend
+@snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb100_Alinierung.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Positionshomologie und Alinierung
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Homologie zwischen Sequenzen wird primär über Positionshomologie bestimmt
+- geschieht mit Hilfe von Alinierungsverfahren, welche DNA-Sequenzen derart untereinander schreiben, dass mutmaßlich homologe Positionen in derselben Spalte stehen
+@ulend
+@snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb100_Alinierung.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Positionshomologie und Alinierung
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- DNA-Sequenzen können unterschiedlich lange sein
+- &#8756; in kürzere Sequenzen müssen Lücken (*gaps*) eingefügt werden, damit alle homologen Nukleotide in Spalten untereinander stehen (siehe Abbildung)
+@ulend
+@snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb100_Alinierung.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
+@snapend
+
+
 
 
 ---?color=#005f6b
