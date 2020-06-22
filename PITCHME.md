@@ -169,7 +169,7 @@ Quelle: Knoop und Müller 2009: Gene und Stammbäume: Seite 291
 @snap[north-west span-100]
 ##### Homologie bei Nukleotiden
 @snapend
-@snap[west span-50]
+@snap[west span-60]
 @ul[list-spaced-bullets text-08]
 - Homologe Merkmale: solche Merkmale, die von einem gemeinsamen Vorfahren geerbt wurden
 - Homologie bei Nukleotiden erscheint paradox zu sein:
@@ -177,7 +177,7 @@ Quelle: Knoop und Müller 2009: Gene und Stammbäume: Seite 291
   - Werden DNA-Sequenzen nicht identisch kopiert, können selbst gleiche Nukleotide analog sein, während ungleiche Nukleotide homolog sein können.
 @ulend
 @snapend
-@snap[east span-50]
+@snap[east span-40]
 ![IMAGE](assets/sci/Waegle2001_Abb100_Alinierung.png)
 @snapend
 @snap[south span-100 text-04]
@@ -188,14 +188,14 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snap[north-west span-100]
 ##### Homologie bei Nukleotiden
 @snapend
-@snap[west span-50]
+@snap[west span-60]
 @ul[list-spaced-bullets text-08]
 - Homologie bei Nukleotiden erscheint paradox zu sein:
   - Sequenzen können auch nicht-homologe Zonen enthalten, die z.B. durch Verlust oder Insertion von Nukleotiden entstehen.
   - &#8756; Homologie muss für jedes Nukleotide einzeln evaluiert werden (Positionshomologie)
 @ulend
 @snapend
-@snap[east span-50]
+@snap[east span-40]
 ![IMAGE](assets/sci/Waegle2001_Abb100_Alinierung.png)
 @snapend
 @snap[south span-100 text-04]
@@ -206,13 +206,13 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snap[north-west span-100]
 ##### Positionshomologie und Alinierung
 @snapend
-@snap[west span-50]
+@snap[west span-60]
 @ul[list-spaced-bullets text-08]
 - Homologie zwischen Sequenzen wird primär über Positionshomologie bestimmt
 - geschieht mit Hilfe von Alinierungsverfahren, welche DNA-Sequenzen derart untereinander schreiben, dass mutmaßlich homologe Positionen in derselben Spalte stehen
 @ulend
 @snapend
-@snap[east span-50]
+@snap[east span-40]
 ![IMAGE](assets/sci/Waegle2001_Abb100_Alinierung.png)
 @snapend
 @snap[south span-100 text-04]
@@ -223,13 +223,13 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snap[north-west span-100]
 ##### Positionshomologie und Alinierung
 @snapend
-@snap[west span-50]
+@snap[west span-60]
 @ul[list-spaced-bullets text-08]
 - DNA-Sequenzen können unterschiedlich lange sein
 - &#8756; in kürzere Sequenzen müssen Lücken (*gaps*) eingefügt werden, damit alle homologen Nukleotide in Spalten untereinander stehen (siehe Abbildung)
 @ulend
 @snapend
-@snap[east span-50]
+@snap[east span-40]
 ![IMAGE](assets/sci/Waegle2001_Abb100_Alinierung.png)
 @snapend
 @snap[south span-100 text-04]
