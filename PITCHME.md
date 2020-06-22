@@ -192,7 +192,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @ul[list-spaced-bullets text-08]
 - Homologie bei Nukleotiden erscheint paradox zu sein:
   - Sequenzen können auch nicht-homologe Zonen enthalten, die z.B. durch Verlust oder Insertion von Nukleotiden entstehen.
-  - &#8756; Homologie muss für jedes Nukleotide einzeln evaluiert werden (Positionshomologie)
+  - &#8756; Homologie muss für jedes Nukleotide einzeln evaluiert werden (*Positionshomologie*)
 @ulend
 @snapend
 @snap[east span-40]
@@ -226,7 +226,7 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snap[west span-60]
 @ul[list-spaced-bullets text-08]
 - DNA-Sequenzen können unterschiedlich lange sein
-- &#8756; in kürzere Sequenzen müssen Lücken (*gaps*) eingefügt werden, damit alle homologen Nukleotide in Spalten untereinander stehen (siehe Abbildung)
+- &#8756; in kürzere Sequenzen müssen Lücken (*gaps*) eingefügt werden, damit alle homologen Nukleotide in Spalten untereinander stehen
 @ulend
 @snapend
 @snap[east span-40]
@@ -235,6 +235,113 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snap[south span-100 text-04]
 Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
 @snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Positionshomologie und Alinierung
+@snapend
+@snap[west span-60]
+@ul[list-spaced-bullets text-08]
+- Ergebnis einer Homologiebestimmung bei DNA-Sequenzen ist die Alinierung dieser Sequenzen
+- Alinierung ist einer der entscheidenden Schritte in der Stammbaumrekonstruktion, denn alternative Alinierungen desselben Datensatzes können großen Einfluss auf das Ergebnis der Verwandtschaftsanalyse habe
+@ulend
+@snapend
+@snap[east span-40]
+![IMAGE](assets/sci/Waegle2001_Abb100_Alinierung.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.100
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Molekulare Uhr
+@snapend
+@snap[west span-60]
+@ul[list-spaced-bullets text-08]
+- Mit Hilfe von molekularen Uhren kann der Zeitpunkt für einzelne Kladogenesen abgeschätzt werden
+- Grundannahme: Rate molekularer Veränderungen sei konstant genug, um daraus die Zeitpunkte der Kladogenesen in einem Stammbaum ableiten zu können (Hypothese von Zuckerkandl und Pauling aus 1965)
+@ulend
+@snapend
+@snap[east span-40]
+![IMAGE](assets/sci/SadavaEtAl2019_Abb21_11.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.11
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Molekulare Uhr
+@snapend
+@snap[west span-60]
+@ul[list-spaced-bullets text-08]
+- Abhängig von der Mutationsrate verändern sich verschiedene Gene mit unterschiedlicher Geschwindigkeit
+- Mutationsraten sind selten konstant zwischen unterschiedlichen organismischen Linien oder Genen
+- Mutationsraten spiegeln vor allem unterschiedliche Generationszeiten, unterschiedlichen Selektionsdruck und unterschiedliche DNA-Reparatursysteme wider
+@ulend
+@snapend
+@snap[east span-40]
+![IMAGE](assets/sci/SadavaEtAl2019_Abb21_11.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.11
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Molekulare Uhr
+@snapend
+@snap[west span-60]
+@ul[list-spaced-bullets text-08]
+- Jedoch: Bei nah verwandten Arten evolvieren Gene mit ähnlicher Funktion i.d.R. mit relativ konstanter Mutationsrate
+- Es gilt:
+  - Anzahl der Mutationen in einem Gen ist direkt proportional mit Anzahl an DNA-Replikationen dieses Gens
+  - Anzahl der DNA-Replikationen, die ein Gen unterlaufen hat, ist direkt proportional zur verstichenen Zeit
+  - &#8756; Die durchschnittliche Rate, mit der sich bei einem Gen Mutationen akkumuliert haben, ist indikativ für die verstrichene Zeit
+@ulend
+@snapend
+@snap[east span-40]
+![IMAGE](assets/sci/SadavaEtAl2019_Abb21_11.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.11
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Molekulare Uhr
+@snapend
+@snap[west span-60]
+@ul[list-spaced-bullets text-08]
+- Jedoch: Ohne zusätzliche Information gibt die molekulare Uhr nur relative Altersunterschiede zwischen betrachteten Taxa, aber keine absoluten Altersinformationen
+@ulend
+@snapend
+@snap[east span-40]
+![IMAGE](assets/sci/SadavaEtAl2019_Abb21_11.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.11
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Fossilien und Divergence Dating
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Um absolute Altersangaben mit Hilfe von molekularen Uhren zu erhalten, muss man diese mittels Fossilbelegen oder geologischen Daten kalibrieren.
+- Bei der Kalibrierung werden bestimmte Kladogenese-Events mit Zeiten versehen und das Alter weiterer Events auf dem Stammbaum extrapoliert &#8754; *divergence dating*
+@ulend
+@snap[east span-100]
+![IMAGE](assets/sci/SadavaEtAl2019_Abb21_12.png)
+@snapend
+@snapend
+@snap[south span-100 text-04]
+Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.12
+@snapend
+
+
 
 
 ---?color=#005f6b
