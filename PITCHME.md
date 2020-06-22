@@ -278,7 +278,7 @@ Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.11
 @ul[list-spaced-bullets text-08]
 - Abhängig von der Mutationsrate verändern sich verschiedene Gene mit unterschiedlicher Geschwindigkeit
 - Mutationsraten sind selten konstant zwischen unterschiedlichen organismischen Linien oder Genen
-- Mutationsraten spiegeln vor allem unterschiedliche Generationszeiten, unterschiedlichen Selektionsdruck und unterschiedliche DNA-Reparatursysteme wider
+- Mutationsraten spiegeln vor allem unterschiedliche Generationszeiten, Selektionsdruck, DNA-Reparatursysteme wider
 @ulend
 @snapend
 @snap[east span-40]
@@ -296,9 +296,9 @@ Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.11
 @ul[list-spaced-bullets text-08]
 - Jedoch: Bei nah verwandten Arten evolvieren Gene mit ähnlicher Funktion i.d.R. mit relativ konstanter Mutationsrate
 - Es gilt:
-  - Anzahl der Mutationen in einem Gen ist direkt proportional mit Anzahl an DNA-Replikationen dieses Gens
-  - Anzahl der DNA-Replikationen, die ein Gen unterlaufen hat, ist direkt proportional zur verstichenen Zeit
-  - &#8756; Die durchschnittliche Rate, mit der sich bei einem Gen Mutationen akkumuliert haben, ist indikativ für die verstrichene Zeit
+  - Anzahl der Mutationen in einem Gen direkt proportional mit Anzahl an DNA-Replikationen dieses Gens
+  - Anzahl der DNA-Replikationen direkt proportional zur verstichenen Zeit
+  - &#8756; Durchschnittliche Rate, mit der sich Mutationen akkumuliert haben, indikativ für die verstrichene Zeit
 @ulend
 @snapend
 @snap[east span-40]
@@ -328,21 +328,57 @@ Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.11
 @snap[north-west span-100]
 ##### Fossilien und Divergence Dating
 @snapend
-@snap[west span-100]
-@ul[list-spaced-bullets text-08]
-- Um absolute Altersangaben mit Hilfe von molekularen Uhren zu erhalten, muss man diese mittels Fossilbelegen oder geologischen Daten kalibrieren.
-- Bei der Kalibrierung werden bestimmte Kladogenese-Events mit Zeiten versehen und das Alter weiterer Events auf dem Stammbaum extrapoliert &#8754; *divergence dating*
-@ulend
 @snap[east span-100]
 ![IMAGE](assets/sci/SadavaEtAl2019_Abb21_12.png)
-@snapend
 @snapend
 @snap[south span-100 text-04]
 Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.12
 @snapend
 
+---?color=#005f6b
+@snap[north-west span-100]
+##### Fossilien und Divergence Dating
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Um absolute Altersangaben mit Hilfe von molekularen Uhren zu erhalten, muss man diese mittels Fossilbelegen oder geologischen Daten kalibrieren.
+- Bei der Kalibrierung werden bestimmte Kladogenese-Events mit Zeiten versehen und das Alter weiterer Events auf dem Stammbaum extrapoliert &#8754; *divergence dating*
+@ulend
+@snapend
 
+---?color=#005f6b
+@snap[north-west span-100]
+##### Fossilien und Divergence Dating
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Genauigkeit der extrapolierten Werte hängt stark von der Konstanz der Mutationsraten ab
+- Jede Altersabschätzung mittels molekularer Uhr ist eigentlich ein Altersintervall (Konfidenzintervall):
+  - Intervall wird umso größer, je weiter man im Stammbaum von den Kalibrierungspunkten entfernt ist
+@ulend
+@snapend
 
+---?color=#005f6b
+@snap[north-west span-100]
+##### Fossilien und Divergence Dating
+@snapend
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- Mit Hilfe von kalibrierten molekularen Uhren war es möglich, zeitlichen Verlauf vieler Krankheiten zu rekonstrukieren
+- Beispiel: gemeinsamer Vorfahre aller bekannten HIV-1-Viren existierte etwa 1930 &#8754; HIV-1 Stamm existierte bereits mindestens ein halbes Jahrhundert vor seinem Auftreten als globale Pandemie in der afrikanischen Bevölkerung
+@ulend
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Fossilien und Divergence Dating
+@snapend
+@snap[east span-100]
+![IMAGE](assets/sci/SadavaEtAl2019_Abb21_12.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.12
+@snapend
 
 ---?color=#005f6b
 @snap[north span-100]
