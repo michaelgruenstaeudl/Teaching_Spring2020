@@ -342,7 +342,7 @@ Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.12
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
 - Um absolute Altersangaben mit Hilfe von molekularen Uhren zu erhalten, muss man diese mittels Fossilbelegen oder geologischen Daten kalibrieren.
-- Bei der Kalibrierung werden bestimmte Kladogenese-Events mit Zeiten versehen und das Alter weiterer Events auf dem Stammbaum extrapoliert &#8754; *divergence dating*
+- Bei der Kalibrierung werden bestimmte Kladogenese-Events mit Zeiten versehen und das Alter weiterer Events auf dem Stammbaum extrapoliert &#8594; *divergence dating*
 @ulend
 @snapend
 
@@ -365,7 +365,7 @@ Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.12
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
 - Mit Hilfe von kalibrierten molekularen Uhren war es möglich, zeitlichen Verlauf vieler Krankheiten zu rekonstrukieren
-- Beispiel: gemeinsamer Vorfahre aller bekannten HIV-1-Viren existierte etwa 1930 &#8754; HIV-1 Stamm existierte bereits mindestens ein halbes Jahrhundert vor seinem Auftreten als globale Pandemie in der afrikanischen Bevölkerung
+- Beispiel: gemeinsamer Vorfahre aller bekannten HIV-1-Viren existierte etwa 1930 &#8594; HIV-1 Stamm existierte bereits mindestens ein halbes Jahrhundert vor seinem Auftreten als globale Pandemie in der afrikanischen Bevölkerung
 @ulend
 @snapend
 
