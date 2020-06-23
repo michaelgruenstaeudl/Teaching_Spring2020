@@ -381,6 +381,77 @@ Quelle: Sadava et al. 2019: Purves Biologie: Abb.21.12
 @snapend
 
 ---?color=#005f6b
+@snap[north-west span-100]
+##### Kronen- und Stammgruppe
+@snapend
+@snap[west span-50]
+@ul[list-spaced-bullets text-08]
+- Viele Organismengruppen werden auf Basis der **rezenten** Arten definiert 
+- &#8594; unklar, ob fossile Verwandte der heutigen Arten zur Organismengruppe gezählt werden
+@ulend
+@snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb61_StammgruppeKronengruppe.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.61
+@snapend
+
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Kronen- und Stammgruppe
+@snapend
+@snap[west span-50]
+@ul[list-spaced-bullets text-08]
+- Was tun mit Fossilien, die nicht alle der Merkmale der rezenten Arten aufweisen?
+  - Anpassung der Taxonbeschreibung, um die Fossilien zu inkludieren
+  - Beibehaltung der Taxonbeschreibung und die Fossilien exkludieren
+@ulend
+@snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb61_StammgruppeKronengruppe.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.61
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Kronen- und Stammgruppe
+@snapend
+@snap[west span-50]
+@ul[list-spaced-bullets text-08]
+- Oft wird dann von Vertretern der *Kronengruppe* (der rezenten Arten) und Vertretern der *Stammgruppe* (der fossilen Arten) gesprochen
+@ulend
+@snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb61_StammgruppeKronengruppe.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.61
+@snapend
+
+---?color=#005f6b
+@snap[north-west span-100]
+##### Kronen- und Stammgruppe
+@snapend
+@snap[west span-50]
+@ul[list-spaced-bullets text-08]
+- Beispiel: Soll der Archaeopteryx zum Taxon der Vögel (Aves) gezählt werden?
+  - Wären die Aves per Konvention Taxon 1 in der nebenstehenden Abbildung, dann wäre Archaeopteryx nicht Teil des Taxons
+  - Wären die Aves per Konvention Taxon 2 in der nebenstehenden Abbildung, dann wäre Archaeopteryx sehr wohl Teil des Taxons
+@ulend
+@snapend
+@snap[east span-50]
+![IMAGE](assets/sci/Waegle2001_Abb61_StammgruppeKronengruppe.png)
+@snapend
+@snap[south span-100 text-04]
+Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.61
+@snapend
+
+
+---?color=#005f6b
 @snap[north span-100]
 ##### S Seminar 09
 #### Vorlesung
