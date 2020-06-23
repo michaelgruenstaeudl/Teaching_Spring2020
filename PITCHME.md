@@ -405,8 +405,8 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.61
 @snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Was tun mit Fossilien, die nicht alle der Merkmale der rezenten Arten aufweisen?
-  - Anpassung der Taxonbeschreibung, um die Fossilien zu inkludieren
-  - Beibehaltung der Taxonbeschreibung und die Fossilien exkludieren
+  - Option 1: Anpassung der Taxonbeschreibung, um die Fossilien zu inkludieren
+  - Option 2: Beibehaltung der Taxonbeschreibung und die Fossilien exkludieren
 @ulend
 @snapend
 @snap[east span-50]
@@ -439,8 +439,8 @@ Quelle: Waegele 2001: Grundlagen der phylogenetischen Systematik: Abb.61
 @snap[west span-50]
 @ul[list-spaced-bullets text-08]
 - Beispiel: Soll der Archaeopteryx zum Taxon der Vögel (Aves) gezählt werden?
-  - Wären die Aves per Konvention Taxon 1 in der nebenstehenden Abbildung, dann wäre Archaeopteryx nicht Teil des Taxons
-  - Wären die Aves per Konvention Taxon 2 in der nebenstehenden Abbildung, dann wäre Archaeopteryx sehr wohl Teil des Taxons
+  - Wären die Aves per Konvention *Taxon 1* in der nebenstehenden Abbildung, dann wäre Archaeopteryx nicht Teil des Taxons
+  - Wären die Aves per Konvention *Taxon 2* in der nebenstehenden Abbildung, dann wäre Archaeopteryx sehr wohl Teil des Taxons
 @ulend
 @snapend
 @snap[east span-50]
