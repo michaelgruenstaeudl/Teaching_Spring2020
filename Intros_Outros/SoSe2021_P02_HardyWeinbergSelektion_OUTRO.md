@@ -1,12 +1,29 @@
----?color=#005f6b
-@snap[north span-100]
-##### Praktikum
-#### Hardy-Weinberg-Gleichgewicht und Selektion
-@snapend
-@snap[span-100]
-![IMAGE](assets/img/presentation.png)
-@snapend
-@snap[south span-100]
-###### Ende der Vorlesung
-###### ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-@snapend
+---
+# Configurations
+# black, white, league, beige, sky, simple, serif, night, moon, solarized
+theme: moon
+# cube, page, concave, zoom, linear, fade, none, default 
+transition: slide
+#  Syntax highlighting style https://highlightjs.org/static/demo/
+highlight: solarized-dark
+backgroundTransition: zoom
+progress: true
+controls: true
+hideAddressBar: true
+
+# Editor settings
+editor:
+    fontSize: 14
+    theme: solarized_light
+    # keybinding: vim
+
+---
+
+<!-- .slide: data-background="#005f6b" -->
+### Praktikum
+#### *Hardy-Weinberg-Gleichgewicht und Selektion*
+
+![Sample image](https://raw.githubusercontent.com/michaelgruenstaeudl/CurrentTeaching/master/assets/img/presentation.png)
+
+#### Ende der Vorlesung
+#### ~ ~ ~ ~ ~ ~ ~ ~ ~ ~

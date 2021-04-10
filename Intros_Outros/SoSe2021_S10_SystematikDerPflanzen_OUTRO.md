@@ -1,12 +1,30 @@
----?color=#005f6b
-@snap[north span-100]
-##### Seminar 
-#### Evolution und Systematik der Pflanzen
-@snapend
-@snap[span-100]
-![IMAGE](assets/img/presentation.png)
-@snapend
-@snap[south span-100]
-###### Ende der Vorlesung
-###### ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-@snapend
+---
+# Configurations
+# black, white, league, beige, sky, simple, serif, night, moon, solarized
+theme: moon
+# cube, page, concave, zoom, linear, fade, none, default 
+transition: slide
+#  Syntax highlighting style https://highlightjs.org/static/demo/
+highlight: solarized-dark
+backgroundTransition: zoom
+progress: true
+controls: true
+hideAddressBar: true
+
+# Editor settings
+editor:
+    fontSize: 14
+    theme: solarized_light
+    # keybinding: vim
+
+---
+
+<!-- .slide: data-background="#005f6b" -->
+### Seminar
+#### *Evolution und Systematik der Pflanzen*
+
+![Sample image](https://raw.githubusercontent.com/michaelgruenstaeudl/CurrentTeaching/master/assets/img/presentation.png)
+
+#### Ende der Vorlesung
+#### ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+

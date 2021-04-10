@@ -21,7 +21,7 @@ editor:
 
 <!-- .slide: data-background="#005f6b" -->
 ### Seminar
-#### *Rekombination und Sexualität*
+#### *Phylogenetische Systematik - Teil 2*
 
 ![Sample image](https://raw.githubusercontent.com/michaelgruenstaeudl/CurrentTeaching/master/assets/img/presentation.png)
 

@@ -20,10 +20,10 @@ editor:
 ---
 
 <!-- .slide: data-background="#005f6b" -->
-## Praktikum
-### *Hardy-Weinberg-Gleichgewicht und Selektion*
+### Praktikum
+#### *Hardy-Weinberg-Gleichgewicht und Selektion*
 
 ![Sample image](https://raw.githubusercontent.com/michaelgruenstaeudl/CurrentTeaching/master/assets/img/presentation.png)
 
-### Sommersemester 2021
-### Michael Grünstäudl
+#### Sommersemester 2021
+#### Michael Grünstäudl
